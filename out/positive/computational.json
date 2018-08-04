@@ -1,0 +1,174 @@
+{
+  "basics": {
+    "label": "Computational Engineer",
+    "website": "glemieux.github.io",
+    "phone": "1-510-847-6519",
+    "email": "gregory.lemieux@gmail.com",
+    "other": [],
+    "name": "Gregory Lemieux",
+    "summary": "Engineer with a background in Astronautics, pursing a graduate degree in Computational Engineering.  ",
+    "picture": "",
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "glemieux",
+        "url": "https://github.com/glemieux"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "SSL",
+      "website": "http://sslmda.com",
+      "position": "Systems Engineering Specialist",
+      "startDate": "2012-04",
+      "summary": "Dynamics and Controls Engineering, Mission Analysis and Design",
+      "highlights": [
+        "Developing next-generation orbit simulation code for future SSL mission validation and rehearsals.",
+        "Responsible for the next-generation on-board flight software orbit estimation filter.",
+        "Founding member of the Guidance, Navigation and Control Software Development Working Group.",
+        "Built Julia and Jupyter-based mission analysis tools for future SSL missions.",
+        "Mission analysis for the Restore-L program."
+      ]
+    },
+    {
+      "company": "Space Science Laboratory",
+      "website": "http://www.ssl.berkeley.edu/",
+      "position": "Research and Development Engineer",
+      "startDate": "2008-06",
+      "endDate": "2012-04",
+      "summary": "Flight Engineer and Mission Scheduler for the THEMIS mission and ARTEMIS extension.",
+      "highlights": [
+        "Developed science data accumulation forecasting tool to aid in planning mission critical science collection.",
+        "Scheduled ARTEMIS mission supports including critical Lunar Lissajous station-keeping maneuvers and Lunar Orbit Insertion.",
+        "Integrated DSN Service Scheduling Software into active mission operation scheduling process.",
+        "Contributed to the Deep Space Network Scheduling Advisory and Mid-range Management Groups."
+      ]
+    },
+    {
+      "company": "Janos Technology",
+      "website": "http://www.janostech.com/",
+      "position": "Opto-mechanical Engineer",
+      "startDate": "2003-12",
+      "endDate": "2006-05",
+      "summary": "Designed infrared lens assemblies for commercial, defense, and research applications.",
+      "highlights": [
+        "Represented the engineering department as a member of the company-wide Quality Control Committee seeking AS9100 compliance."
+      ]
+    },
+    {
+      "company": "Center for Space Physics",
+      "website": "https://www.bu.edu/csp/",
+      "position": "Mechanical Engineer",
+      "startDate": "2001-09",
+      "endDate": "2003-06",
+      "summary": "Design and development of the vacuum-sealed opto-mechanical assembly for the main science payload for NASA SMEX mission proposal.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Purdue University",
+      "gpa": "3.2",
+      "courses": [],
+      "startDate": "2017-01",
+      "endDate": "2021-05"
+    },
+    {
+      "institution": "Boston University",
+      "gpa": "",
+      "courses": [],
+      "startDate": "1997-09",
+      "endDate": "2002-05"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Scientific Programming",
+      "level": "",
+      "keywords": [
+        "Matlab/Simulink",
+        "Julia",
+        "Python",
+        "C",
+        "Fortran"
+      ]
+    },
+    {
+      "name": "Source Control",
+      "level": "",
+      "keywords": [
+        "Git",
+        "SVN"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "flavor": "volunteer",
+      "organization": "UUCB",
+      "position": "Safety Implimentation Team Member",
+      "startDate": "2017 September",
+      "website": "http://uucb.org",
+      "summary": "The Safety Implimenation Team is liason between all church groups and the Coordinating Team.  It is responsible for educating groups on the Safety Plan requirements and relaying questions and suggestions back to the Coordinating Team.",
+      "highlights": [
+        "Trained Family Ministry and Religious Education Volunteers on Emergency Evacuation procedures."
+      ]
+    },
+    {
+      "flavor": "volunteer",
+      "organization": "UUCB",
+      "position": "Social Media Team Member",
+      "startDate": "2018-08",
+      "website": "https://uucb.org",
+      "summary": "Administrative member of the church Social Media Team.  Responsible for training, technical support, and analytics reporting to the church Program Council.",
+      "highlights": []
+    }
+  ],
+  "awards": [
+    {
+      "flavor": "award",
+      "url": "",
+      "title": "Apogee Award",
+      "date": "2016",
+      "awarder": "SSL",
+      "summary": "Look this up!"
+    },
+    {
+      "flavor": "industry",
+      "title": "ARTEMIS Extension",
+      "date": "2008",
+      "awarder": "NASA",
+      "summary": "For work on lunar ARTEMIS extension."
+    }
+  ],
+  "publications": [
+    {
+      "name": "SSL Commercial Geosynchronous Spacecraft Orbit Raising Considerations",
+      "publisher": "Univelt",
+      "releaseDate": "2016",
+      "website": "http://www.univelt.com/book=5817",
+      "summary": "Survey findings from all SSL launches since the 1990s."
+    },
+    {
+      "name": "THEMIS Mission Networks Expansion – Adding the Deep Space Network for the ARTEMIS Lunar Mission Phase",
+      "publisher": "Space Ops Conferences",
+      "releaseDate": "2010",
+      "website": "https://arc.aiaa.org/doi/10.2514/6.2010-1934",
+      "summary": "Discussion of the integration of the Deep Space Network software and processes for the ARTEMIS mission extension."
+    }
+  ],
+  "interests": [
+    {
+      "name": "",
+      "summary": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "C++",
+      "level": "intermediate"
+    }
+  ]
+}

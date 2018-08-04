@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Gregory Lemieux</title>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <style>html, body, main, section, header, ul, p, h1, h2, h3 {
+  font-family: 'Open Sans', 'sans-serif';
+  font-size: 14px;
+  line-height: 1.4;
+  margin: 0; padding: 0;
+  display: block;
+}
+
+::selection {
+  color: #fff;
+  background: #e48a8a; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  color: #fff;
+  background: #e48a8a; /* Gecko Browsers */
+}
+
+p::selection {
+  color: #fff;
+}
+
+a {
+  color: #C00000;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #7B0796;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-size:
+}
+
+h2 {
+  text-transform: uppercase;
+  color: #898989;
+  font-size: 2em;
+  position: relative;
+  font-weight: 400;
+}
+
+h3, .tenure {
+  font-size: 1.5em;
+  font-weight: 400;
+}
+
+h3 {
+  margin-top: 0;
+  margin-bottom: 5px;
+  /*width: 85%;*/
+  float: left;
+}
+
+table {
+  width: 100%;
+  text-transform: uppercase;
+}
+
+td:first-child {
+  letter-spacing: 0;
+  color: #bd5b5b;
+  font-size: 20px;
+}
+
+td:last-child {
+  text-align: justify; /* HTML justification sucks, but in this case... */
+}
+
+hr {
+  display: none;
+}
+
+main {
+  padding: 15px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+section {
+  margin-top: 2em;
+}
+
+section > div {
+  margin-top: 2em;
+  overflow: hidden; /* Clear floated children */
+}
+
+section > div p {
+  clear: both;
+}
+
+section > header {
+  position: relative;
+}
+
+p + ul {
+  margin: 1em;
+}
+
+ul {
+  clear: both;
+}
+
+li {
+  margin-left: 2em;
+}
+
+p, li {
+  text-align: justify;
+}
+
+.tenure {
+  float: right;
+  color: #6F6F6F;
+  background-color: #F5F5F5;
+  border-radius: 6px;
+  padding: 4px 6px;
+  font-size: 85%;
+  font-weight: 600;
+  margin-top: 3px;
+}
+
+.location {
+  border: #e2aaaa dashed 1px;
+  background-color: #ffffff;
+  padding: 3px 6px;
+  border-radius: 6px;
+  float: right;
+  margin-right: 5px;
+  float: right;
+  font-size: 85%;
+  color: #717171;
+  font-weight: 600;
+  margin-top: 3px;
+}
+
+span.keywords {
+  font-size: 12px;
+  color: #B16666;
+}
+
+thead {
+  display: none;
+}
+
+main > header {
+  width: 100%;
+  float: left;
+  margin-bottom: 1em;
+}
+
+h1 {
+  float: left;
+}
+
+h1, h2, .label {
+  font-size: 2.5em;
+  text-transform: uppercase;
+  font-weight: 300;
+  font-family: 'Open Sans', 'Helvetica Neue', 'Helvetica', 'Lato', 'sans-serif'
+}
+
+#contact {
+ clear: both;
+ float: right;
+ margin-top: 2px;
+}
+
+#contact span + span {
+  margin-left: 10px;
+}
+
+header > span.fa {
+  text-align: center;
+  margin-right: 3px;
+  position: absolute;
+  width: 40px;
+  top: 14px;
+  font-size: 30px;
+  /*transform: translateX(-110%); PDF no likey */
+  margin-left: -50px;
+  color: #DADADA;
+}
+
+.label {
+  float: right;
+  color: #DADADA;
+}
+
+#summary {
+  color: #717171;
+  font-size: 1.25em;
+  margin-top: 6em;
+}
+
+#skills td {
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+
+#references > p, #references > p > a {
+  color: #961e1e;
+  text-align: center;
+  margin: 30px;
+  font-weight: bold;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+</style>
+  </head>
+  <body>
+    <main>
+      <header>
+        <h1>Gregory <span style="color: #C00000;">Lemieux</span></h1>
+        <span class="label">Computational Engineer</span>
+        <p id="contact">
+          <span class="email"><a href="mailto:gregory.lemieux@gmail.com">gregory.lemieux@gmail.com</a></span>
+          <span class="phone">1-510-847-6519</span>
+          <span class="website"><a href="glemieux.github.io">glemieux.github.io</a></span>
+        </p>
+      </header>
+
+
+      <section id="summary">
+        A brief description of yourself as a candidate that appears in some résumé themes. You may use <strong>Markdown</strong> and/or <strong>HTML</strong> formatting here including <a href="https://en.wikipedia.org/wiki/Special:Random">links</a> or stick to plain text.
+      </section>
+
+
+
+      
+      <hr>
+      <section id="skills">
+          <header>
+            <span class="fa fa-lg fa-code"></span>  <h2>skills</h2>
+          </header>
+        <table>
+          <thead>
+            <tr>
+              <th>Skill</th>
+              <th>Keywords</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td style="width: 25%;">Web Development</td>
+              <td class="keywords">LAMP JavaScript HTML 5 Angular.js jQuery Sass LESS </td>
+            </tr>
+            <tr>
+              <td style="width: 25%;">Ninjitsu</td>
+              <td class="keywords">Tokagure Ryu Shuriken Yogen </td>
+            </tr>
+            <tr>
+              <td style="width: 25%;">Skillset #3</td>
+              <td class="keywords">Your keywords here </td>
+            </tr>
+          </tbody>
+        </table>
+      </section>
+
+      
+      <hr>
+      <section id="employment">
+          <header>
+            <span class="fa fa-lg fa-building"></span>  <h2>employment</h2>
+          </header>
+          <div>
+            <h3><em>Systems Engineering Specialist</em>,
+              <a href="http://sslmda.com">SSL</a>
+              </h3>
+              <span class="tenure">2012-04 — Present</span>
+              
+            <p><p>Dynamics and Controls Engineering including Mission Analysis and Design</p>
+      </p>
+            <ul>
+              <li>Developing next-generation orbit simulation code for future SSL mission validation and rehearsals.</li>
+              <li>Responsible for the next-generation on-board flight software orbit estimation filter.</li>
+              <li>Founding member of the Guidance, Navigation and Control Software Development Working Group.</li>
+              <li>Built Julia and Jupyter-based mission analysis tools for future SSL missions.</li>
+              <li>Mission analysis for the Restore-L program.</li>
+            </ul>
+            <span class="keywords">Space Orbit Mission Launch Estimation </span>
+          </div>
+          <div>
+            <h3><em>Research and Development Engineer</em>,
+              <a href="http://www.ssl.berkeley.edu/">Space Science Laboratory, Univeristy of California, Berkeley</a>
+              </h3>
+              <span class="tenure">2008-06 — 2012-04</span>
+              
+            <p><p>Flight Engineering for the THEMIS mission and ARTEMIS extension.</p>
+      </p>
+            <ul>
+              <li>.</li>
+              <li>Highlight #2.</li>
+              <li>Highlight #3.</li>
+            </ul>
+            <span class="keywords">Lunar Schedule DSN Scripts </span>
+          </div>
+      </section>
+
+      
+      <hr>
+      <section id="projects">
+          <header>
+            <span class="fa fa-lg fa-star"></span>  <h2>projects</h2>
+          </header>
+          <div>
+          <h3><em>Contributor</em>,
+          <a href="http://project-page.org">Awesome Project #1</a>
+          </h3>
+          
+          <p>Show off your project work with a Markdown-and-HTML friendly summary of your role on the project. Software projects, creative projects, business projects can all appear here.</p>
+      
+          <ul>
+            <li>Project Highlight #1</li>
+            <li>Project Highlight #2</li>
+            <li>Project Highlight #3</li>
+          </ul>
+          <span class="keywords">Tag1 Tag2 Tag3 Tag4 </span>    
+          </div>
+          <div>
+          <h3><em>Creator</em>,
+          <a href="http://asteroids-demo.org">Asteroids</a>
+          </h3>
+          
+          <p>Conceived, designed, implemented, and created 3D Asteroids space shooter with Unreal Engine IV and C++.</p>
+      
+          <ul>
+            <li>Project Highlight #1</li>
+            <li>Project Highlight #2</li>
+            <li>Project Highlight #3</li>
+          </ul>
+          <span class="keywords">C++ Unreal Engine 3D DirectX </span>    
+          </div>
+      </section>
+
+      
+      <hr>
+      <section id="education">
+          <header>
+            <span class="fa fa-lg fa-mortar-board"></span>  <h2>education</h2>
+          </header>
+          <div>
+            <h3><em>BSCS</em>, Purdue University</h3>
+            <span class="tenure">2004-09 — 2009-06</span>
+            
+            <p>Graduate of Acme University, summer of 2009. Go <a href="https://en.wikipedia.org/wiki/Coyote">Coyotes</a>!</p>
+      
+            <span class="keywords">Data Algorithms Optimization Neural Networks C C++ Java HTTP TCP/IP </span>
+          </div>
+      </section>
+
+      
+
+      
+      <hr>
+      <section id="service">
+          <header>
+            <span class="fa fa-lg fa-child"></span>  <h2>service</h2>
+          </header>
+          <div>
+          <h3><em>Volunteer Coordinator</em>,
+            <a href="http://themommiesnetwork.org">The Mommies Network</a>
+          </h3>
+          <span class="tenure">2006-06 — Present</span>
+          
+          <p><p>A summary of your volunteer experience at this organization. Can include <strong>Markdown</strong> and inline <strong>HTML</strong> formatting.</p>
+      </p>
+          </div>
+          <div>
+          <h3><em>MOS</em>,
+            <a href="https://service-website.mil">Air Force</a>
+          </h3>
+          <span class="tenure">2004-01 — Present</span>
+          
+          <p><p>A summary of your service experience with this organization. Can include <strong>Markdown</strong> and inline <strong>HTML</strong> formatting.</p>
+      </p>
+          </div>
+      </section>
+
+      
+
+      
+      <hr>
+      <section id="samples">
+          <header>
+            <span class="fa fa-lg fa-share"></span>  <h2>samples</h2>
+          </header>
+          <div>
+          <h3>
+          <a href="http://project-repo.com">Work Sample #1</a>
+          </h3>
+          <span class="tenure">2015-01</span>
+          <p>A technical or creative <strong>work sample</strong>.</p>
+      
+          </div>
+          <div>
+          <h3>
+          <a href="http://project-repo.com">Creative Sample #2</a>
+          </h3>
+          <span class="tenure">2015-01</span>
+          <p>Another technical or creative sample. You can use <a href="https://daringfireball.net/projects/markdown/">Markdown</a> here.</p>
+      
+          </div>
+      </section>
+
+      
+      <hr>
+      <section id="writing">
+          <header>
+            <span class="fa fa-lg fa-pencil"></span>  <h2>writing</h2>
+          </header>
+          <div>
+          <h3><em><a href="http://coding-snorer.com">My Blog</a></em>,
+      
+            Medium.com</h3>
+            <span class="tenure">2010</span>
+            <p>Your blog or online home.</p>
+      
+          </div>
+          <div>
+          <h3><em><a href="http://codeproject.com/something-i-wrote-once">Something I Wrote Once</a></em>,
+      
+            Acme University Press</h3>
+            <span class="tenure">2009</span>
+            <p>List your blogs, articles, essays, novels, and dissertations.</p>
+      
+          </div>
+      </section>
+
+      
+      <hr>
+      <section id="reading">
+          <header>
+            <span class="fa fa-lg fa-book"></span>  <h2>reading</h2>
+          </header>
+          <div>
+          <h3><em><a href="http://www.amazon.com/Other-Copenhagens-And-Stories/dp/0984749209">Other Copenhagens</a></em>, Edmund Jorgensen</h3>
+            <span class="tenure">Current</span>
+            
+          </div>
+          <div>
+          <h3><em><a href="https://www.reddit.com/r/programming">r/programming</a></em></h3>
+            <span class="tenure">Current</span>
+            
+          </div>
+          <div>
+          <h3><em><a href="https://news.ycombinator.com/">Hacker News</a></em></h3>
+            <span class="tenure">Current</span>
+            
+          </div>
+      </section>
+
+      
+      <hr>
+      <section id="recognition">
+          <header>
+            <span class="fa fa-lg fa-trophy"></span>  <h2>recognition</h2>
+          </header>
+          <div>
+          <h3><em>Awesomeness Award</em>, <a href="https://fluentdesk.com/hackmyresume">HackMyResume</a></h3>
+          <span class="tenure">2016</span>
+          <p>Thanks for being a HackMyResume / FluentCV user!</p>
+      
+          </div>
+          <div>
+          <h3><em>MVP: SpinWidget Technology</em>, Big Software</h3>
+          <span class="tenure">2015</span>
+          <p>For work in promotion and popularization of SpinWidget technology.</p>
+      
+          </div>
+      </section>
+
+      
+
+      
+      <hr>
+      <section id="testimonials">
+          <header>
+            <span class="fa fa-lg fa-quote-left"></span>  <h2>testimonials</h2>
+          </header>
+          <div>
+          <h3><em>John Doe</em></h3>
+          <p>Such-and-such is awesome! I&#39;d hire him/her again in a second!</p>
+          </div>
+          <div>
+          <h3><em>Somebody Important</em></h3>
+          <p>Hands-down <em>the best developer/manager/spelunker/coworker/etc</em> I&#39;ve ever worked with. Emphasis <em>mine!</em></p>
+          </div>
+      </section>
+
+      <section id="references">
+        <p><a href="mailto:gregory.lemieux@gmail.com">References available on request</a></p>
+      </section>
+
+
+    </main>
+  </body>
+</html>

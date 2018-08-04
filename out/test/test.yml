@@ -1,0 +1,147 @@
+name: 'Gregory Lemieux'
+meta:
+  format: FRESH@0.6.0
+  version: 0.1.0
+contact:
+  website: glemieux.github.io
+  phone: 1-510-847-6519
+  email: gregory.lemieux@gmail.com
+  other: []
+location:
+  address: '1113 Channing Way'
+  city: Berkeley
+  region: California
+  code: '94702'
+  country: US
+employment:
+  summary: 'Optional overall employment summary. Not used in most themes.'
+  history:
+    -
+      employer: SSL
+      url: 'http://sslmda.com'
+      position: 'Systems Engineering Specialist'
+      summary: 'Dynamics and Controls Engineering including Mission Analysis and Design'
+      start: 2012-04
+      keywords:
+        - Space
+        - Orbit
+        - Mission
+        - Launch
+        - Estimation
+      highlights:
+        - 'Developing next-generation orbit simulation code for future SSL mission validation and rehearsals.'
+        - 'Responsible for the next-generation on-board flight software orbit estimation filter.'
+        - 'Founding member of the Guidance, Navigation and Control Software Development Working Group.'
+        - 'Built Julia and Jupyter-based mission analysis tools for future SSL missions.'
+        - 'Mission analysis for the Restore-L program.'
+    -
+      employer: 'Space Science Laboratory, Univeristy of California, Berkeley'
+      url: 'http://www.ssl.berkeley.edu/'
+      position: 'Research and Development Engineer'
+      summary: 'Flight Engineering for the THEMIS mission and ARTEMIS extension.'
+      start: 2008-06
+      end: 2012-04
+      keywords:
+        - Lunar
+        - Schedule
+        - DSN
+        - Scripts
+      highlights:
+        - .
+        - 'Highlight #2.'
+        - 'Highlight #3.'
+education:
+  summary: 'Optional overall education summary. Not used in most themes.'
+  level: degree
+  degree: 'Candidate for M.S. Interdisciplinary Engineering, 2021'
+  history:
+    -
+      institution: 'Purdue University'
+      title: 'M.S. Interdiscplinary Engineering'
+      url: 'https://engineering.purdue.edu/ProEd/programs/masters-degrees/interdisciplinary-engineering'
+      start: 2017-01
+      end: 2021-05
+      grade: '3.2'
+      summary: 'Part-time, customized, distance program with a focus on Computational Engineering.'
+      curriculum:
+        - Nonlinear
+        - Optimization
+        - Control
+        - Estimattion
+        - Python
+        - 'CS&E'
+    -
+      institution: 'Boston University'
+      title: 'B.S. Aerospace Engineering'
+      url: 'https://www.bu.edu/eng/academics/areas-of-study/area-of-study-aerospace/'
+      start: 1997-09
+      end: 2002-05
+      grade: ""
+      summary: ""
+      curriculum: []
+service:
+  summary: ""
+  history:
+    -
+      flavor: volunteer
+      position: 'Safety Implimentation Team Member'
+      organization: UUCB
+      url: 'http://uucb.org'
+      start: 2017-09
+      summary: 'The Safety Implimenation Team is liason between all church groups and the Coordinating Team.  It is responsible for educating groups on the Safety Plan requirements and relaying questions and suggestions back to the Coordinating Team.'
+      highlights:
+        - 'Trained Family Ministry and Religious Education Volunteers on Emergency Evacuation procedures.'
+    -
+      flavor: volunteer
+      position: 'Social Media Team Member'
+      organization: UUCB
+      url: 'https://uucb.org'
+      start: 2018-08
+      summary: 'Administrative member of the church Social Media Team.  Responsible for training, technical support, and analytics reporting to the church Program Council.'
+      highlights: []
+writing:
+  -
+    title: 'THEMIS Mission Networks Expansion – Adding the Deep Space Network for the ARTEMIS Lunar Mission Phase'
+    flavor: 'Conference Paper'
+    date: 'April 25-30, 2010'
+    publisher:
+      name: 'Code Project'
+      url: 'http://codeproject.com'
+    url: 'http://codeproject.com/build-ui-electron-atom.aspx'
+  -
+    title: 'SSL Commercial Geosynchronous Spacecraft Orbit Raising Considerations'
+    flavor: 'Conference Paper'
+    date: 'February 14-18, 2016'
+    publisher:
+      name: Univelt
+      url: 'http://www.univelt.com/'
+    url: 'http://www.univelt.com/book=5817'
+    author:
+      - 'Gregory Lemieux'
+      - 'Andrew E. Turner'
+    summary: 'Survey findings from all SSL launches since the 1990s.'
+recognition:
+  -
+    flavor: award
+    from: SSL
+    title: 'Apogee Award'
+    event: ""
+    url: ""
+    date: '2016'
+    summary: 'Look this up!'
+  -
+    flavor: industry
+    from: NASA
+    title: 'ARTEMIS Extension'
+    event: ""
+    date: '2008'
+    summary: 'For work on lunar ARTEMIS extension.'
+languages:
+  -
+    language: C++
+    level: intermediate
+interests:
+  -
+    name: ""
+    summary: ""
+    keywords: []

@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "format": "FRESH@0.6.0",
+    "version": "0.1.0"
+  },
+  "info": {
+    "label": "Computational Engineer",
+    "brief": "Astronautics professional with a broad backround working towards computational mathematics degree. Excellent communicator within commercial, manufacturing and research environments; Proven ability to adapt to changing responsibilities based on evolving project requirements with a diverse skill set developed through participation in multiple stages of spacecraft design, development, and operations..",
+    "image": ""
+  },
+  "social": [
+    {
+      "label": "",
+      "network": "GitHub",
+      "user": "glemieux",
+      "url": "https://github.com/glemieux"
+    }
+  ],
+  "skills": {
+    "sets": [
+      {
+        "name": "Scientific Programming",
+        "level": "",
+        "skills": [
+          "Matlab/Simulink",
+          "Julia",
+          "Python",
+          "C",
+          "Fortran"
+        ]
+      },
+      {
+        "name": "Source Control",
+        "level": "",
+        "skills": [
+          "Git",
+          "SVN"
+        ]
+      }
+    ],
+    "list": []
+  },
+  "employment": {
+    "summary": "Optional overall employment summary. Not used in most themes.",
+    "history": [
+      {
+        "employer": "SSL",
+        "url": "http://sslmda.com",
+        "position": "Systems Engineering Specialist",
+        "summary": "Dynamics and Controls Engineering, Mission Analysis and Design",
+        "start": "2012-04",
+        "keywords": [],
+        "highlights": [
+          "Developing next-generation orbit simulation code for future SSL mission validation and rehearsals.",
+          "Responsible for the next-generation on-board flight software orbit estimation filter.",
+          "Founding member of the Guidance, Navigation and Control Software Development Working Group.",
+          "Built Julia and Jupyter-based mission analysis tools for future SSL missions.",
+          "Mission analysis for the Restore-L program."
+        ]
+      },
+      {
+        "employer": "Space Science Laboratory",
+        "url": "http://www.ssl.berkeley.edu/",
+        "position": "Research and Development Engineer",
+        "summary": "Flight Engineer and Mission Scheduler for the THEMIS mission and ARTEMIS extension.",
+        "start": "2008-06",
+        "end": "2012-04",
+        "keywords": [],
+        "highlights": [
+          "Developed science data accumulation forecasting tool to aid in planning mission critical science collection.",
+          "Scheduled ARTEMIS mission supports including critical Lunar Lissajous station-keeping maneuvers and Lunar Orbit Insertion.",
+          "Integrated DSN Service Scheduling Software into active mission operation scheduling process.",
+          "Contributed to the Deep Space Network Scheduling Advisory and Mid-range Management Groups."
+        ]
+      },
+      {
+        "employer": "Janos Technology",
+        "url": "http://www.janostech.com/",
+        "position": "Opto-mechanical Engineer",
+        "summary": "Designed infrared lens assemblies for commercial, defense, and research applications.",
+        "start": "2003-12",
+        "end": "2006-05",
+        "keywords": [],
+        "highlights": [
+          "Represented the engineering department as a member of the company-wide Quality Control Committee seeking AS9100 compliance."
+        ]
+      },
+      {
+        "employer": "Center for Space Physics",
+        "url": "https://www.bu.edu/csp/",
+        "position": "Mechanical Engineer",
+        "summary": "Designed and developed the vacuum-sealed opto-mechanical assembly for the main science payload for the SPIDR NASA SMEX mission proposal.",
+        "start": "2001-09",
+        "end": "2003-06",
+        "keywords": [],
+        "highlights": []
+      }
+    ]
+  }
+}
