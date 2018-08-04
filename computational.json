@@ -5,7 +5,7 @@
   },
   "info": {
     "label": "Computational Engineer",
-    "brief": "Astronautics professional with a broad backround working towards computational mathematics degree. Excellent communicator within commercial, manufacturing and research environments; Proven ability to adapt to changing responsibilities based on evolving project requirements with a diverse skill set developed through participation in multiple stages of spacecraft design, development, and operations..",
+    "brief": "Astronautics professional with a broad backround working towards Computational Engineering degree. Excellent communicator within commercial, manufacturing and research environments; Proven ability to adapt to changing responsibilities based on evolving project requirements with a diverse skill set developed through participation in multiple stages of spacecraft design, development, and operations.",
     "image": ""
   },
   "social": [
@@ -68,8 +68,8 @@
         "keywords": [],
         "highlights": [
           "Developed science data accumulation forecasting tool to aid in planning mission critical science collection.",
-          "Scheduled ARTEMIS mission supports including critical Lunar Lissajous station-keeping maneuvers and Lunar Orbit Insertion.",
           "Integrated DSN Service Scheduling Software into active mission operation scheduling process.",
+          "Scheduled ARTEMIS mission supports including critical Lunar Orbit Insertion.",
           "Contributed to the Deep Space Network Scheduling Advisory and Mid-range Management Groups."
         ]
       },

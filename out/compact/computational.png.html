@@ -4,33 +4,17 @@
     <head>
         <meta charset="utf-8">
         <title>Gregory Lemieux</title>
-        <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic'
-        rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
         <style>
             html, body, main, section, header, ul, p, h1, h2, h3 {
-              font-family: 'Open Sans', 'sans-serif';
-              font-size: 14px;
-              line-height: 1.4;
+              font-family: 'Calibri', 'Helvetica Neue', 'Helvetica', 'Segoe UI', 'sans-serif';
+              font-size: 12px;
               margin: 0; padding: 0;
               display: block;
             }
             
-            ::selection {
-              color: #fff;
-              background: #e48a8a; /* WebKit/Blink Browsers */
-            }
-            ::-moz-selection {
-              color: #fff;
-              background: #e48a8a; /* Gecko Browsers */
-            }
-            
-            p::selection {
-              color: #fff;
-            }
-            
             a {
-              color: #C00000;
+              color: #0064BD;
               text-decoration: none;
             }
             
@@ -42,79 +26,27 @@
               text-decoration: underline;
             }
             
-            h1 {
-              text-transform: uppercase;
-              font-size:
-            }
-            
             h2 {
               text-transform: uppercase;
-              color: #898989;
-              font-size: 2em;
-              position: relative;
-              font-weight: 400;
-            }
-            
-            h3, .tenure {
-              font-size: 1.5em;
-              font-weight: 400;
             }
             
             h3 {
-              margin-top: 0;
-              margin-bottom: 5px;
-              /*width: 85%;*/
-              float: left;
-            }
-            
-            table {
-              width: 100%;
-              text-transform: uppercase;
-            }
-            
-            td:first-child {
-              letter-spacing: 2px;
-              color: #bd5b5b;
-              font-size: 20px;
-            }
-            
-            td:last-child {
-              text-align: justify; /* HTML justification sucks, but in this case... */
+              font-size: 1em;
             }
             
             hr {
-              display: none;
+              border: none;
+              border-top: 1px solid #B3B3B3;
             }
             
             main {
               padding: 15px;
-              max-width: 800px;
+              max-width: 700px;
               margin: 0 auto;
             }
             
             section {
-              margin-top: 2em;
-            }
-            
-            section > div {
-              margin-top: 2em;
-              overflow: hidden; /* Clear floated children */
-            }
-            
-            section > div p {
-              clear: both;
-            }
-            
-            section > header {
-              position: relative;
-            }
-            
-            p + ul {
-              margin: 1em;
-            }
-            
-            ul {
-              clear: both;
+              margin-top: 1em;
             }
             
             li {
@@ -123,36 +55,11 @@
             
             p, li {
               text-align: justify;
+              clear: both;
             }
             
             .tenure {
               float: right;
-              color: #6F6F6F;
-              background-color: #F5F5F5;
-              border-radius: 6px;
-              padding: 4px 6px;
-              font-size: 85%;
-              font-weight: 600;
-              margin-top: 3px;
-            }
-            
-            .location {
-              border: #e2aaaa dashed 1px;
-              background-color: #ffffff;
-              padding: 3px 6px;
-              border-radius: 6px;
-              float: right;
-              margin-right: 5px;
-              float: right;
-              font-size: 85%;
-              color: #717171;
-              font-weight: 600;
-              margin-top: 3px;
-            }
-            
-            span.keywords {
-              font-size: 12px;
-              color: #B16666;
             }
             
             thead {
@@ -162,65 +69,42 @@
             main > header {
               width: 100%;
               float: left;
-              margin-bottom: 1em;
+              margin-bottom: 0;
+              position: relative;
             }
             
-            h1 {
+            
+            h3 {
+              display: inline-block;
+              line-height: 1;
+            }
+            #contact {
+              float: right;
+              position: absolute;
+              right: 0;
+              bottom: 0;
+            }
+            
+            #contact > div {
+              display: inline-block;
+              margin-left: 5px;
+            }
+            
+            span.fa {
+              text-align: left;
+              margin-right: 3px;
               float: left;
             }
             
-            h1, h2, .label {
-              font-size: 2.5em;
-              text-transform: uppercase;
-              font-weight: 300;
-              font-family: 'Open Sans', 'Helvetica Neue', 'Helvetica', 'Lato', 'sans-serif'
+            section > div {
+              margin-bottom: 1em;
+              clear: both;
             }
             
-            #contact {
-             clear: both;
-             float: right;
-             margin-top: 2px;
-            }
-            
-            #contact span + span {
-              margin-left: 10px;
-            }
-            
-            header > span.fa {
-              text-align: center;
-              margin-right: 3px;
-              position: absolute;
-              width: 40px;
-              top: 14px;
-              font-size: 30px;
-              /*transform: translateX(-110%); PDF no likey */
-              margin-left: -50px;
-              color: #DADADA;
-            }
-            
-            .label {
-              float: right;
-              color: #DADADA;
-            }
-            
-            #summary {
-              color: #717171;
-              font-size: 1.25em;
-              margin-top: 6em;
-            }
-            
-            #skills td {
-              padding-top: 7px;
-              padding-bottom: 7px;
-            }
-            
-            #references > p, #references > p > a {
-              color: #961e1e;
-              text-align: center;
-              margin: 30px;
-              font-weight: bold;
-              letter-spacing: 2px;
-              text-transform: uppercase;
+            span.keywords {
+              font-size: 10px;
+              color: gray;
+              text-align: right;
             }
         </style>
     </head>
@@ -228,18 +112,22 @@
     <body>
         <main>
             <header>
-                 <h1>Gregory <span style="color: #C00000;">Lemieux</span></h1> <span class="label">Computational Engineer</span>
-                <p id="contact"> <span class="email"><a href="mailto:gregory.lemieux@gmail.com">gregory.lemieux@gmail.com</a></span>
-                    <span
-                    class="phone">1-510-847-6519</span> <span class="website"><a href="glemieux.github.io">glemieux.github.io</a></span>
-                </p>
+                 <h1>Gregory Lemieux</h1>
+                <div id="contact">
+                    <div class="email"><a href="mailto:gregory.lemieux@gmail.com">gregory.lemieux@gmail.com</a>
+                    </div>
+                    <div class="phone">1-510-847-6519</div>
+                    <div class="website"><a href="glemieux.github.io">glemieux.github.io</a>
+                    </div>
+                </div>
             </header>
+            <hr>
             <section id="summary">Astronautics professional with a broad backround working towards computational
                 mathematics degree. Excellent communicator within commercial, manufacturing
                 and research environments; Proven ability to adapt to changing responsibilities
                 based on evolving project requirements with a diverse skill set developed
                 through participation in multiple stages of spacecraft design, development,
-                and operations..</section>
+                and operations.</section>
             <hr>
             <section id="skills">
                 <header> <span class="fa fa-lg fa-code"></span> 
@@ -267,16 +155,16 @@
             </section>
             <hr>
             <section id="employment">
-                <header> <span class="fa fa-lg fa-building"></span> 
+                <header> <span class="fa fa-building"></span> 
                      <h2>employment</h2>
 
                 </header>
                 <div>
                      <h3><em>Systems Engineering Specialist</em>,
 
-              <a href="http://sslmda.com">SSL</a>
+    <a href="http://sslmda.com">SSL</a>
 
-              </h3> <span class="tenure">2012-04 — Present</span>
+    </h3> <span class="tenure">2012-04 — Present</span>
                     <p>
                         <p>Dynamics and Controls Engineering, Mission Analysis and Design</p>
                     </p>
@@ -294,9 +182,9 @@
                 <div>
                      <h3><em>Research and Development Engineer</em>,
 
-              <a href="http://www.ssl.berkeley.edu/">Space Science Laboratory</a>
+    <a href="http://www.ssl.berkeley.edu/">Space Science Laboratory</a>
 
-              </h3> <span class="tenure">2008-06 — 2012-04</span>
+    </h3> <span class="tenure">2008-06 — 2012-04</span>
                     <p>
                         <p>Flight Engineer and Mission Scheduler for the THEMIS mission and ARTEMIS
                             extension.</p>
@@ -304,10 +192,9 @@
                     <ul>
                         <li>Developed science data accumulation forecasting tool to aid in planning
                             mission critical science collection.</li>
-                        <li>Scheduled ARTEMIS mission supports including critical Lunar Lissajous
-                            station-keeping maneuvers and Lunar Orbit Insertion.</li>
                         <li>Integrated DSN Service Scheduling Software into active mission operation
                             scheduling process.</li>
+                        <li>Scheduled ARTEMIS mission supports including critical Lunar Orbit Insertion.</li>
                         <li>Contributed to the Deep Space Network Scheduling Advisory and Mid-range
                             Management Groups.</li>
                     </ul>
@@ -315,9 +202,9 @@
                 <div>
                      <h3><em>Opto-mechanical Engineer</em>,
 
-              <a href="http://www.janostech.com/">Janos Technology</a>
+    <a href="http://www.janostech.com/">Janos Technology</a>
 
-              </h3> <span class="tenure">2003-12 — 2006-05</span>
+    </h3> <span class="tenure">2003-12 — 2006-05</span>
                     <p>
                         <p>Designed infrared lens assemblies for commercial, defense, and research
                             applications.</p>
@@ -330,9 +217,9 @@
                 <div>
                      <h3><em>Mechanical Engineer</em>,
 
-              <a href="https://www.bu.edu/csp/">Center for Space Physics</a>
+    <a href="https://www.bu.edu/csp/">Center for Space Physics</a>
 
-              </h3> <span class="tenure">2001-09 — 2003-06</span>
+    </h3> <span class="tenure">2001-09 — 2003-06</span>
                     <p>
                         <p>Designed and developed the vacuum-sealed opto-mechanical assembly for
                             the main science payload for the SPIDR NASA SMEX mission proposal.</p>
@@ -341,35 +228,37 @@
             </section>
             <hr>
             <section id="education">
-                <header> <span class="fa fa-lg fa-mortar-board"></span> 
+                <header> <span class="fa fa-mortar-board"></span> 
                      <h2>education</h2>
 
                 </header>
                 <div>
-                     <h3><em>M.S. Interdiscplinary Engineering</em>, Purdue University</h3> <span class="tenure">2017-01 — 2021-05</span>
+                     <h3><em>M.S. Interdiscplinary Engineering</em>, Purdue University</h3>
+ <span class="tenure">2017-01 — Present</span>
+
                     <p>Part-time, customized, distance program with focus on Computational Engineering.</p>
                 </div>
                 <div>
-                     <h3><em>B.S. Aerospace Engineering</em>, Boston University</h3> <span class="tenure">1997-09 — 2002-05</span>
+                     <h3><em>B.S. Aerospace Engineering</em>, Boston University</h3>
+ <span class="tenure">1997-09 — 2002-05</span>
+
                 </div>
             </section>
             <hr>
             <section id="service">
-                <header> <span class="fa fa-lg fa-child"></span> 
+                <header> <span class="fa fa-child"></span> 
                      <h2>service</h2>
 
                 </header>
                 <div>
                      <h3><em>Safety Implimentation Team Member</em>,
+      <a href="http://uucb.org">Unitarian Universalist Church of Berkeley</a>
+    </h3>
+ <span class="tenure">2017-09 — Present</span>
 
-            <a href="http://uucb.org">UUCB</a>
-
-          </h3> <span class="tenure">2017-09 — Present</span>
                     <p>
-                        <p>The Safety Implimenation Team is liason between all church groups and
-                            the Coordinating Team. It is responsible for educating groups on the Safety
-                            Plan requirements and relaying questions and suggestions back to the Coordinating
-                            Team.</p>
+                        <p>The Safety Implimenation Team is responsible for educating all church
+                            groups on the Safety Plan requirements.</p>
                     </p>
                     <ul>
                         <li>Trained Family Ministry and Religious Education Volunteers on Emergency
@@ -378,10 +267,10 @@
                 </div>
                 <div>
                      <h3><em>Social Media Team Member</em>,
+      <a href="https://uucb.org">Unitarian Universalist Church of Berkeley</a>
+    </h3>
+ <span class="tenure">2018-07 — Present</span>
 
-            <a href="https://uucb.org">UUCB</a>
-
-          </h3> <span class="tenure">2018-08 — Present</span>
                     <p>
                         <p>Administrative member of the church Social Media Team. Responsible for
                             training, technical support, and analytics reporting to the church Program
@@ -391,31 +280,31 @@
             </section>
             <hr>
             <section id="writing">
-                <header> <span class="fa fa-lg fa-pencil"></span> 
+                <header> <span class="fa fa-pencil"></span> 
                      <h2>writing</h2>
 
                 </header>
                 <div>
                      <h3><em><a href="http://www.univelt.com/book=5817">SSL Commercial Geosynchronous Spacecraft Orbit Raising Considerations</a></em>,
 
-      
 
-            Univelt</h3> <span class="tenure">2016</span>
+
+      Univelt</h3> <span class="tenure">2016</span>
                     <p>Survey findings from all SSL launches since the 1990s.</p>
                 </div>
                 <div>
                      <h3><em><a href="https://arc.aiaa.org/doi/10.2514/6.2010-1934">THEMIS Mission Networks Expansion – Adding the Deep Space Network for the ARTEMIS Lunar Mission Phase</a></em>,
 
-      
 
-            Space Ops Conferences</h3> <span class="tenure">2010</span>
+
+      Space Ops Conferences</h3> <span class="tenure">2010</span>
                     <p>Discussion of the integration of the Deep Space Network software and processes
                         for the ARTEMIS mission extension.</p>
                 </div>
             </section>
             <hr>
             <section id="recognition">
-                <header> <span class="fa fa-lg fa-trophy"></span> 
+                <header> <span class="fa fa-trophy"></span> 
                      <h2>recognition</h2>
 
                 </header>
