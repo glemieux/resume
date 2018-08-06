@@ -13,13 +13,13 @@
   },
   "meta": {
     "format": "FRESH@^1.0.0-beta",
-    "modified": "2018-08-06T07:20:00.187Z"
+    "modified": "2018-08-06T06:47:52.036Z"
   },
   "employment": {
     "history": [
       {
         "position": "Systems Engineering Specialist",
-        "employer": "[SSL](http://sslmda.com)",
+        "employer": "SSL",
         "current": true,
         "start": "2012-04",
         "url": "http://sslmda.com",
@@ -33,7 +33,7 @@
       },
       {
         "position": "Research and Development Engineer",
-        "employer": "[Space Science Laboratory](http://www.ssl.berkeley.edu/)",
+        "employer": "Space Science Laboratory",
         "start": "2008-06",
         "end": "2012-04",
         "url": "http://www.ssl.berkeley.edu/",
@@ -47,7 +47,7 @@
       },
       {
         "position": "Opto-mechanical Engineer",
-        "employer": "[Janos Technology](http://www.janostech.com/)",
+        "employer": "Janos Technology",
         "start": "2003-12",
         "end": "2006-05",
         "url": "http://www.janostech.com/",
@@ -59,7 +59,7 @@
       },
       {
         "position": "Mechanical Engineer",
-        "employer": "[Center for Space Physics](https://www.bu.edu/csp/)",
+        "employer": "Center for Space Physics",
         "start": "2001-09",
         "end": "2003-06",
         "url": "https://www.bu.edu/csp/",
@@ -77,36 +77,26 @@
         "institution": "Purdue University",
         "start": "2016-09",
         "grade": "3.2",
-        "curriculum": [
-          "[CS50100](https://engineering.purdue.edu/ProEd/courses/computing-science-engineering)",
-          "[MA52800](https://engineering.purdue.edu/ProEd/courses/advanced-mathematics-engineers-physicists-ii)",
-          "[AAE50800](https://engineering.purdue.edu/ProEd/courses/optimization-aerospace-engineering)",
-          "[AAE56800](https://engineering.purdue.edu/ProEd/courses/applied-optimal-control-estimation)"
-        ],
+        "curriculum": [],
         "summary": "",
-        "area": "[Interdiscplinary Engineering](https://engineering.purdue.edu/ProEd/programs/masters-degrees/interdisciplinary-engineering)",
+        "area": "Interdiscplinary Engineering",
         "studyType": "M.Sc."
       },
       {
         "institution": "Stanford University",
         "start": "2015-06",
         "end": "2015-08",
-        "curriculum": [
-          "[EE263](https://see.stanford.edu/Course/EE263)"
-        ],
+        "curriculum": [],
         "summary": "",
-        "area": "[Center for Professional Development](http://scpd.stanford.edu/home)"
+        "area": "Introduction to Linear Dynamical Systems (EE263)"
       },
       {
         "institution": "Santa Clara University",
         "start": "2014-09",
         "end": "2015-05",
-        "curriculum": [
-          "Linear Algebra I",
-          "Linear Algebra II"
-        ],
+        "curriculum": [],
         "summary": "",
-        "area": "Open University"
+        "area": "Linear Algebra I (AMTH 245), Linear Algebra II (AMTH 246)"
       },
       {
         "institution": "Boston University",
@@ -152,7 +142,9 @@
         "skills": [
           "Matlab/Simulink",
           "Julia",
-          "NumPy"
+          "Python",
+          "C",
+          "Fortran"
         ]
       },
       {
@@ -160,25 +152,7 @@
         "level": "",
         "skills": [
           "Git",
-          "Subversion"
-        ]
-      },
-      {
-        "name": "Documentation",
-        "level": "",
-        "skills": [
-          "Markdown",
-          "TeX",
-          "Pandoc",
-          "Documenter.jl"
-        ]
-      },
-      {
-        "name": "Productivity",
-        "level": "",
-        "skills": [
-          "VScode",
-          "Vim"
+          "SVN"
         ]
       },
       {
@@ -194,13 +168,13 @@
   },
   "writing": [
     {
-      "title": "[SSL Commercial Geosynchronous Spacecraft Orbit Raising Considerations](http://www.univelt.com/book=5817)",
+      "title": "SSL Commercial Geosynchronous Spacecraft Orbit Raising Considerations",
       "url": "http://www.univelt.com/book=5817",
       "date": "2016",
       "summary": "Survey findings from all SSL launches since the 1990s."
     },
     {
-      "title": "[THEMIS Mission Networks Expansion](https://arc.aiaa.org/doi/10.2514/6.2010-1934)",
+      "title": "THEMIS Mission Networks Expansion",
       "url": "https://arc.aiaa.org/doi/10.2514/6.2010-1934",
       "date": "2010",
       "summary": "Discussion of the integration of the Deep Space Network software and processes for the ARTEMIS mission extension."

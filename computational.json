@@ -17,6 +17,61 @@
       "url": "https://github.com/glemieux"
     }
   ],
+  "employment": {
+    "summary": "Optional overall employment summary. Not used in most themes.",
+    "history": [
+      {
+        "employer": "[SSL](http://sslmda.com)",
+        "url": "http://sslmda.com",
+        "position": "Systems Engineering Specialist",
+        "start": "2012-04",
+        "keywords": [],
+        "highlights": [
+          "Developing next-generation orbit simulation code for controls design and analysis.",
+          "Responsible for the next-generation on-board flight software orbit estimation filter.",
+          "Founding member of the Guidance, Navigation and Control Software Development Working Group.",
+          "Produced mission analysis tools for the NASA [Restore-L](https://sspd.gsfc.nasa.gov/restore-L.html) to help guide hardware subsystems decision-making."
+        ]
+      },
+      {
+        "employer": "[Space Science Laboratory](http://www.ssl.berkeley.edu/)",
+        "url": "http://www.ssl.berkeley.edu/",
+        "position": "Research and Development Engineer",
+        "start": "2008-06",
+        "end": "2012-04",
+        "keywords": [],
+        "highlights": [
+          "Developed science data accumulation forecasting tool to aid in planning mission critical science collection.",
+          "Integrated [DSN Service Scheduling Software](https://ai.jpl.nasa.gov/public/projects/sss/) into active mission operation scheduling process.",
+          "Scheduled [ARTEMIS](http://artemis.ssl.berkeley.edu/) mission supports including critical Lunar Orbit Insertion.",
+          "Contributed to the Deep Space Network Scheduling Advisory and Mid-range Management Groups."
+        ]
+      },
+      {
+        "employer": "[Janos Technology](http://www.janostech.com/)",
+        "url": "http://www.janostech.com/",
+        "position": "Opto-mechanical Engineer",
+        "start": "2003-12",
+        "end": "2006-05",
+        "keywords": [],
+        "highlights": [
+          "Designed infrared lens assemblies for commercial, defense, and research applications.",
+          "Represented the engineering department as a member of the company-wide Quality Control Committee seeking AS9100 compliance."
+        ]
+      },
+      {
+        "employer": "[Center for Space Physics](https://www.bu.edu/csp/)",
+        "url": "https://www.bu.edu/csp/",
+        "position": "Mechanical Engineer",
+        "start": "2001-09",
+        "end": "2003-06",
+        "keywords": [],
+        "highlights": [
+          "Designed and developed the vacuum-sealed opto-mechanical assembly for the main science payload for the SPIDR NASA mission proposal."
+        ]
+      }
+    ]
+  },
   "skills": {
     "sets": [
       {
@@ -25,9 +80,7 @@
         "skills": [
           "Matlab/Simulink",
           "Julia",
-          "Python",
-          "C",
-          "Fortran"
+          "NumPy"
         ]
       },
       {
@@ -35,67 +88,38 @@
         "level": "",
         "skills": [
           "Git",
-          "SVN"
+          "Subversion"
+        ]
+      },
+      {
+        "name": "Documentation",
+        "level": "",
+        "skills": [
+          "Markdown",
+          "TeX",
+          "Pandoc",
+          "Documenter.jl"
+        ]
+      },
+      {
+        "name": "Productivity",
+        "level": "",
+        "skills":[
+          "VScode",
+          "Vim"
+        ]
+
+      },
+      {
+        "name": "Operating Systems",
+        "level": "",
+        "skills": [
+          "Linux",
+          "macOS",
+          "Windows"
         ]
       }
     ],
     "list": []
-  },
-  "employment": {
-    "summary": "Optional overall employment summary. Not used in most themes.",
-    "history": [
-      {
-        "employer": "SSL",
-        "url": "http://sslmda.com",
-        "position": "Systems Engineering Specialist",
-        "summary": "Dynamics and Controls Engineering, Mission Analysis and Design",
-        "start": "2012-04",
-        "keywords": [],
-        "highlights": [
-          "Developing next-generation orbit simulation code for future SSL mission validation and rehearsals.",
-          "Responsible for the next-generation on-board flight software orbit estimation filter.",
-          "Founding member of the Guidance, Navigation and Control Software Development Working Group.",
-          "Built Julia and Jupyter-based mission analysis tools for future SSL missions.",
-          "Mission analysis for the Restore-L program."
-        ]
-      },
-      {
-        "employer": "Space Science Laboratory",
-        "url": "http://www.ssl.berkeley.edu/",
-        "position": "Research and Development Engineer",
-        "summary": "Flight Engineer and Mission Scheduler for the THEMIS mission and ARTEMIS extension.",
-        "start": "2008-06",
-        "end": "2012-04",
-        "keywords": [],
-        "highlights": [
-          "Developed science data accumulation forecasting tool to aid in planning mission critical science collection.",
-          "Integrated DSN Service Scheduling Software into active mission operation scheduling process.",
-          "Scheduled ARTEMIS mission supports including critical Lunar Orbit Insertion.",
-          "Contributed to the Deep Space Network Scheduling Advisory and Mid-range Management Groups."
-        ]
-      },
-      {
-        "employer": "Janos Technology",
-        "url": "http://www.janostech.com/",
-        "position": "Opto-mechanical Engineer",
-        "summary": "Designed infrared lens assemblies for commercial, defense, and research applications.",
-        "start": "2003-12",
-        "end": "2006-05",
-        "keywords": [],
-        "highlights": [
-          "Represented the engineering department as a member of the company-wide Quality Control Committee seeking AS9100 compliance."
-        ]
-      },
-      {
-        "employer": "Center for Space Physics",
-        "url": "https://www.bu.edu/csp/",
-        "position": "Mechanical Engineer",
-        "summary": "Designed and developed the vacuum-sealed opto-mechanical assembly for the main science payload for the SPIDR NASA SMEX mission proposal.",
-        "start": "2001-09",
-        "end": "2003-06",
-        "keywords": [],
-        "highlights": []
-      }
-    ]
   }
 }

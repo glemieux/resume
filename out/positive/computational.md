@@ -1,7 +1,7 @@
 Gregory Lemieux
 ============
 Email: gregory.lemieux@gmail.com
-Tel: 1-510-847-6519
+Tel: 1.510.847.6519
 Web: http://glemieux.github.io
 
 Astronautics professional with a broad technical backround working towards Computational Engineering degree. Excellent communicator within commercial, manufacturing and research environments; Proven ability to adapt to changing responsibilities based on evolving project requirements with a diverse skill set developed through participation in multiple stages of spacecraft design, development, and operations.
@@ -10,12 +10,13 @@ Astronautics professional with a broad technical backround working towards Compu
 
   - Scientific Programming: Matlab/Simulink Julia Python C Fortran 
   - Source Control: Git SVN 
+  - Operating Systems: Linux macOS Windows 
 
 ## EMPLOYMENT
 
 ### *Systems Engineering Specialist*, [SSL](http://sslmda.com) (2012-04 — Present)
 
-Dynamics and Controls Engineering, Mission Analysis and Design
+
   - Developing next-generation orbit simulation code for future SSL mission validation and rehearsals.
   - Responsible for the next-generation on-board flight software orbit estimation filter.
   - Founding member of the Guidance, Navigation and Control Software Development Working Group.
@@ -24,7 +25,7 @@ Dynamics and Controls Engineering, Mission Analysis and Design
 
 ### *Research and Development Engineer*, [Space Science Laboratory](http://www.ssl.berkeley.edu/) (2008-06 — 2012-04)
 
-Flight Engineer and Mission Scheduler for the THEMIS mission and ARTEMIS extension.
+
   - Developed science data accumulation forecasting tool to aid in planning mission critical science collection.
   - Integrated DSN Service Scheduling Software into active mission operation scheduling process.
   - Scheduled ARTEMIS mission supports including critical Lunar Orbit Insertion.
@@ -32,21 +33,31 @@ Flight Engineer and Mission Scheduler for the THEMIS mission and ARTEMIS extensi
 
 ### *Opto-mechanical Engineer*, [Janos Technology](http://www.janostech.com/) (2003-12 — 2006-05)
 
-Designed infrared lens assemblies for commercial, defense, and research applications.
+
+  - Designed infrared lens assemblies for commercial, defense, and research applications.
   - Represented the engineering department as a member of the company-wide Quality Control Committee seeking AS9100 compliance.
 
 ### *Mechanical Engineer*, [Center for Space Physics](https://www.bu.edu/csp/) (2001-09 — 2003-06)
 
-Designed and developed the vacuum-sealed opto-mechanical assembly for the main science payload for the SPIDR NASA SMEX mission proposal.
+
+  - Designed and developed the vacuum-sealed opto-mechanical assembly for the main science payload for the SPIDR NASA SMEX mission proposal.
 
 
 
 
 ## EDUCATION
 
-### [Purdue University](https://engineering.purdue.edu/ProEd/programs/masters-degrees/interdisciplinary-engineering) (2017-01 — Present)
+### [Purdue University](https://engineering.purdue.edu/ProEd/programs/masters-degrees/interdisciplinary-engineering) (2016-09 — Present)
 
 Part-time, customized, distance program with focus on Computational Engineering.
+
+
+### Stanford University (2015-06 — 2015-08)
+
+
+
+### Santa Clara University (2014-09 — 2015-05)
+
 
 
 ### [Boston University](https://www.bu.edu/eng/academics/areas-of-study/area-of-study-aerospace/) (1997-09 — 2002-05)
@@ -58,22 +69,22 @@ Part-time, customized, distance program with focus on Computational Engineering.
 
 ## WRITING
 
-### ***[SSL Commercial Geosynchronous Spacecraft Orbit Raising Considerations](http://www.univelt.com/book&#x3D;5817)*** (Univelt, 2016-01)
+### ***[SSL Commercial Geosynchronous Spacecraft Orbit Raising Considerations](http://www.univelt.com/book&#x3D;5817)*** (2016-01)
 Survey findings from all SSL launches since the 1990s.
 
-### ***[THEMIS Mission Networks Expansion – Adding the Deep Space Network for the ARTEMIS Lunar Mission Phase](https://arc.aiaa.org/doi/10.2514/6.2010-1934)*** (Space Ops Conferences, 2010-01)
+### ***[THEMIS Mission Networks Expansion – Adding the Deep Space Network for the ARTEMIS Lunar Mission Phase](https://arc.aiaa.org/doi/10.2514/6.2010-1934)*** (2010-01)
 Discussion of the integration of the Deep Space Network software and processes for the ARTEMIS mission extension.
 
 
 
 ## SERVICE
 
-### *Safety Implimentation Team Member*, [Unitarian Universalist Church of Berkeley](http://uucb.org) (2017-09 — Present)
+### *Safety Implimentation Team Member*, [UUCB](http://uucb.org) (2017-09 — Present)
 
 The Safety Implimenation Team is responsible for educating all church groups on the Safety Plan requirements.
   - Trained Family Ministry and Religious Education Volunteers on Emergency Evacuation procedures.
 
-### *Social Media Team Member*, [Unitarian Universalist Church of Berkeley](https://uucb.org) (2018-07 — Present)
+### *Social Media Team Member*, [UUCB](https://uucb.org) (2018-07 — Present)
 
 Administrative member of the church Social Media Team.  Responsible for training, technical support, and analytics reporting to the church Program Council.
 
@@ -86,8 +97,8 @@ Peer-to-peer recognition for developing and delivering introductory training mat
 ### Apogee Award, SSL (Jan 2013)
 Received for contributions to a 2013 NASA Institute for Advanced Concepts (NIAC) proposal for a deep space communications architecture concept.
 
-### ARTEMIS Extension, NASA (Jan 2008)
-For work on lunar ARTEMIS extension.
+### ARTEMIS Project Recognition, Space Sciences Laboratory (Jan 2010)
+For contributions to the Lissajous and Lunar Orbit Phases.
 
 
 

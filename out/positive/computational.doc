@@ -508,7 +508,7 @@
           <w:rPr>
             <w:sz w:val="16"/>
           </w:rPr>
-          <w:t>1-510-847-6519</w:t>
+          <w:t>1.510.847.6519</w:t>
         </w:r>
         <w:r>
           <w:rPr>
@@ -626,6 +626,43 @@
     </w:tr>
 
 
+    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="3000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:pPr>
+            <w:jc w:val="right"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:caps/>
+              <w:color w:val="989898"/>
+            </w:rPr>
+            <w:t>Operating Systems</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="8000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:rPr>
+              <w:caps/>
+              <w:spacing w:val="22"/>
+            </w:rPr>
+            <w:t>Linux  macOS  Windows</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+    </w:tr>
+
+
   </w:tbl>
 </wx:sub-section>
 
@@ -691,7 +728,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Dynamics and Controls Engineering, Mission Analysis and Design</w:t></w:r>
+      
     </w:p>
 
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
@@ -808,7 +845,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Flight Engineer and Mission Scheduler for the THEMIS mission and ARTEMIS extension.</w:t></w:r>
+      
     </w:p>
 
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
@@ -910,9 +947,24 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Designed infrared lens assemblies for commercial, defense, and research applications.</w:t></w:r>
+      
     </w:p>
 
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Designed infrared lens assemblies for commercial, defense, and research applications.</w:t></w:r>
+    </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
       <w:pPr>
         <w:pStyle w:val="ListParagraph"/>
@@ -967,9 +1019,24 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Designed and developed the vacuum-sealed opto-mechanical assembly for the main science payload for the SPIDR NASA SMEX mission proposal.</w:t></w:r>
+      
     </w:p>
 
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Designed and developed the vacuum-sealed opto-mechanical assembly for the main science payload for the SPIDR NASA SMEX mission proposal.</w:t></w:r>
+    </w:p>
 
   </wx:sub-section>
 
@@ -1032,7 +1099,102 @@
         <w:rPr>
           <w:rStyle w:val="FromTo"/>
         </w:rPr>
-        <w:t>2017 — Present</w:t>
+        <w:t>2016 — Present</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r wsp:rsidRPr="000A3AF0">
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+        <w:t>Interdiscplinary Engineering, M.Sc.</w:t>
+      </w:r>
+    </w:p>
+
+
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:t>Stanford University</w:t>
+        </w:r>
+      
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>2015</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r wsp:rsidRPr="000A3AF0">
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+        <w:t>Introduction to Linear Dynamical Systems (EE263), </w:t>
+      </w:r>
+    </w:p>
+
+
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:t>Santa Clara University</w:t>
+        </w:r>
+      
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>2014 — 2015</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r wsp:rsidRPr="000A3AF0">
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+        <w:t>Linear Algebra I (AMTH 245), Linear Algebra II (AMTH 246), </w:t>
       </w:r>
     </w:p>
 
@@ -1064,6 +1226,19 @@
           <w:rStyle w:val="FromTo"/>
         </w:rPr>
         <w:t>1997 — 2002</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r wsp:rsidRPr="000A3AF0">
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+        <w:t>Aerospace Engineering, B.Sc.</w:t>
       </w:r>
     </w:p>
 
@@ -1116,7 +1291,7 @@
           <w:rPr>
             <w:rStyle w:val="Hyperlink"/>
           </w:rPr>
-          <w:t>Unitarian Universalist Church of Berkeley</w:t>
+          <w:t>UUCB</w:t>
         </w:r>
       </w:hlink>
       <w:r wsp:rsidR="00EA0B64">
@@ -1173,7 +1348,7 @@
           <w:rPr>
             <w:rStyle w:val="Hyperlink"/>
           </w:rPr>
-          <w:t>Unitarian Universalist Church of Berkeley</w:t>
+          <w:t>UUCB</w:t>
         </w:r>
       </w:hlink>
       <w:r wsp:rsidR="00EA0B64">
@@ -1419,7 +1594,7 @@
       </w:pPr>
       
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
-          <w:t>ARTEMIS Extension</w:t>
+          <w:t>ARTEMIS Project Recognition</w:t>
         </w:r>
       
       <w:r wsp:rsidR="00EA0B64">
@@ -1429,7 +1604,7 @@
         <w:rPr>
           <w:rStyle w:val="FromTo"/>
         </w:rPr>
-        <w:t>2008-01</w:t>
+        <w:t>2010-01</w:t>
       </w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
@@ -1438,7 +1613,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>For work on lunar ARTEMIS extension.</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>For contributions to the Lissajous and Lunar Orbit Phases.</w:t></w:r>
     </w:p>
 
 

@@ -2,7 +2,7 @@
   "basics": {
     "label": "Computational Engineer",
     "website": "http://glemieux.github.io",
-    "phone": "1-510-847-6519",
+    "phone": "1.510.847.6519",
     "email": "gregory.lemieux@gmail.com",
     "other": [],
     "name": "Gregory Lemieux",
@@ -22,7 +22,6 @@
       "website": "http://sslmda.com",
       "position": "Systems Engineering Specialist",
       "startDate": "2012-04",
-      "summary": "Dynamics and Controls Engineering, Mission Analysis and Design",
       "highlights": [
         "Developing next-generation orbit simulation code for future SSL mission validation and rehearsals.",
         "Responsible for the next-generation on-board flight software orbit estimation filter.",
@@ -37,7 +36,6 @@
       "position": "Research and Development Engineer",
       "startDate": "2008-06",
       "endDate": "2012-04",
-      "summary": "Flight Engineer and Mission Scheduler for the THEMIS mission and ARTEMIS extension.",
       "highlights": [
         "Developed science data accumulation forecasting tool to aid in planning mission critical science collection.",
         "Integrated DSN Service Scheduling Software into active mission operation scheduling process.",
@@ -51,8 +49,8 @@
       "position": "Opto-mechanical Engineer",
       "startDate": "2003-12",
       "endDate": "2006-05",
-      "summary": "Designed infrared lens assemblies for commercial, defense, and research applications.",
       "highlights": [
+        "Designed infrared lens assemblies for commercial, defense, and research applications.",
         "Represented the engineering department as a member of the company-wide Quality Control Committee seeking AS9100 compliance."
       ]
     },
@@ -62,8 +60,9 @@
       "position": "Mechanical Engineer",
       "startDate": "2001-09",
       "endDate": "2003-06",
-      "summary": "Designed and developed the vacuum-sealed opto-mechanical assembly for the main science payload for the SPIDR NASA SMEX mission proposal.",
-      "highlights": []
+      "highlights": [
+        "Designed and developed the vacuum-sealed opto-mechanical assembly for the main science payload for the SPIDR NASA SMEX mission proposal."
+      ]
     }
   ],
   "education": [
@@ -71,14 +70,32 @@
       "institution": "Purdue University",
       "gpa": "3.2",
       "courses": [],
-      "startDate": "2017-01"
+      "startDate": "2016-09",
+      "area": "Interdiscplinary Engineering",
+      "studyType": "M.Sc."
+    },
+    {
+      "institution": "Stanford University",
+      "courses": [],
+      "startDate": "2015-06",
+      "endDate": "2015-08",
+      "area": "Introduction to Linear Dynamical Systems (EE263)"
+    },
+    {
+      "institution": "Santa Clara University",
+      "courses": [],
+      "startDate": "2014-09",
+      "endDate": "2015-05",
+      "area": "Linear Algebra I (AMTH 245), Linear Algebra II (AMTH 246)"
     },
     {
       "institution": "Boston University",
-      "gpa": "",
+      "gpa": "2.98",
       "courses": [],
       "startDate": "1997-09",
-      "endDate": "2002-05"
+      "endDate": "2002-05",
+      "area": "Aerospace Engineering",
+      "studyType": "B.Sc."
     }
   ],
   "skills": [
@@ -100,12 +117,21 @@
         "Git",
         "SVN"
       ]
+    },
+    {
+      "name": "Operating Systems",
+      "level": "",
+      "keywords": [
+        "Linux",
+        "macOS",
+        "Windows"
+      ]
     }
   ],
   "volunteer": [
     {
       "flavor": "volunteer",
-      "organization": "Unitarian Universalist Church of Berkeley",
+      "organization": "UUCB",
       "position": "Safety Implimentation Team Member",
       "startDate": "2017-09",
       "website": "http://uucb.org",
@@ -116,7 +142,7 @@
     },
     {
       "flavor": "volunteer",
-      "organization": "Unitarian Universalist Church of Berkeley",
+      "organization": "UUCB",
       "position": "Social Media Team Member",
       "startDate": "2018-07",
       "website": "https://uucb.org",
@@ -141,23 +167,21 @@
     },
     {
       "flavor": "industry",
-      "title": "ARTEMIS Extension",
-      "date": "2008",
-      "awarder": "NASA",
-      "summary": "For work on lunar ARTEMIS extension."
+      "title": "ARTEMIS Project Recognition",
+      "date": "2010",
+      "awarder": "Space Sciences Laboratory",
+      "summary": "For contributions to the Lissajous and Lunar Orbit Phases."
     }
   ],
   "publications": [
     {
       "name": "SSL Commercial Geosynchronous Spacecraft Orbit Raising Considerations",
-      "publisher": "Univelt",
       "releaseDate": "2016",
       "website": "http://www.univelt.com/book=5817",
       "summary": "Survey findings from all SSL launches since the 1990s."
     },
     {
       "name": "THEMIS Mission Networks Expansion – Adding the Deep Space Network for the ARTEMIS Lunar Mission Phase",
-      "publisher": "Space Ops Conferences",
       "releaseDate": "2010",
       "website": "https://arc.aiaa.org/doi/10.2514/6.2010-1934",
       "summary": "Discussion of the integration of the Deep Space Network software and processes for the ARTEMIS mission extension."

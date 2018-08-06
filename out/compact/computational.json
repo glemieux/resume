@@ -13,6 +13,11 @@
         "network": "GitHub",
         "username": "glemieux",
         "url": "https://github.com/glemieux"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "gregorylemieux",
+        "url": "https://www.linkedin.com/in/gregorylemieux/"
       }
     ]
   },
@@ -109,7 +114,7 @@
       "position": "Safety Implimentation Team Member",
       "startDate": "2017-09",
       "website": "http://uucb.org",
-      "summary": "The Safety Implimenation Team is responsible for educating all church groups on the Safety Plan requirements.",
+      "summary": "Educating all church groups on the Safety Plan requirements.",
       "highlights": [
         "Trained Family Ministry and Religious Education Volunteers on Emergency Evacuation procedures."
       ]
@@ -120,7 +125,7 @@
       "position": "Social Media Team Member",
       "startDate": "2018-07",
       "website": "https://uucb.org",
-      "summary": "Administrative member of the church Social Media Team.  Responsible for training, technical support, and analytics reporting to the church Program Council.",
+      "summary": "Responsible for training and technical supportto the church Program Council.",
       "highlights": []
     }
   ],

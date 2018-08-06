@@ -4,33 +4,15 @@ meta:
   version: 0.1.0
 contact:
   website: 'http://glemieux.github.io'
-  phone: 1-510-847-6519
+  phone: 1.510.847.6519
   email: gregory.lemieux@gmail.com
   other: []
 location:
   address: '1113 Channing Way'
   city: Berkeley
   region: California
-  code: '94702'
-  country: US
-skills:
-  sets:
-    -
-      name: 'Scientific Programming'
-      level: ""
-      skills:
-        - Matlab/Simulink
-        - Julia
-        - Python
-        - C
-        - Fortran
-    -
-      name: 'Source Control'
-      level: ""
-      skills:
-        - Git
-        - SVN
-  list: []
+  postalCode: '94702'
+  countryCode: US
 employment:
   summary: 'Optional overall employment summary. Not used in most themes.'
   history:
@@ -38,7 +20,6 @@ employment:
       employer: SSL
       url: 'http://sslmda.com'
       position: 'Systems Engineering Specialist'
-      summary: 'Dynamics and Controls Engineering, Mission Analysis and Design'
       start: 2012-04
       keywords: []
       highlights:
@@ -51,7 +32,6 @@ employment:
       employer: 'Space Science Laboratory'
       url: 'http://www.ssl.berkeley.edu/'
       position: 'Research and Development Engineer'
-      summary: 'Flight Engineer and Mission Scheduler for the THEMIS mission and ARTEMIS extension.'
       start: 2008-06
       end: 2012-04
       keywords: []
@@ -64,21 +44,21 @@ employment:
       employer: 'Janos Technology'
       url: 'http://www.janostech.com/'
       position: 'Opto-mechanical Engineer'
-      summary: 'Designed infrared lens assemblies for commercial, defense, and research applications.'
       start: 2003-12
       end: 2006-05
       keywords: []
       highlights:
+        - 'Designed infrared lens assemblies for commercial, defense, and research applications.'
         - 'Represented the engineering department as a member of the company-wide Quality Control Committee seeking AS9100 compliance.'
     -
       employer: 'Center for Space Physics'
       url: 'https://www.bu.edu/csp/'
       position: 'Mechanical Engineer'
-      summary: 'Designed and developed the vacuum-sealed opto-mechanical assembly for the main science payload for the SPIDR NASA SMEX mission proposal.'
       start: 2001-09
       end: 2003-06
       keywords: []
-      highlights: []
+      highlights:
+        - 'Designed and developed the vacuum-sealed opto-mechanical assembly for the main science payload for the SPIDR NASA SMEX mission proposal.'
 education:
   summary: 'Optional overall education summary. Not used in most themes.'
   level: degree
@@ -86,20 +66,34 @@ education:
   history:
     -
       institution: 'Purdue University'
-      title: 'M.S. Interdiscplinary Engineering'
+      studyType: M.Sc.
+      area: 'Interdiscplinary Engineering'
       url: 'https://engineering.purdue.edu/ProEd/programs/masters-degrees/interdisciplinary-engineering'
-      start: 2017-01
+      start: 2016-09
       grade: '3.2'
       summary: 'Part-time, customized, distance program with focus on Computational Engineering.'
       curriculum: []
     -
+      institution: 'Stanford University'
+      area: 'Introduction to Linear Dynamical Systems (EE263)'
+      start: 2015-06
+      end: 2015-08
+      curriculum: []
+    -
+      institution: 'Santa Clara University'
+      area: 'Linear Algebra I (AMTH 245), Linear Algebra II (AMTH 246)'
+      start: 2014-09
+      end: 2015-05
+      curriculum: []
+    -
       institution: 'Boston University'
+      studyType: B.Sc.
+      area: 'Aerospace Engineering'
       title: 'B.S. Aerospace Engineering'
       url: 'https://www.bu.edu/eng/academics/areas-of-study/area-of-study-aerospace/'
       start: 1997-09
       end: 2002-05
-      grade: ""
-      summary: ""
+      grade: '2.98'
       curriculum: []
 writing:
   -
@@ -108,9 +102,6 @@ writing:
       - 'Gregory Lemieux'
       - 'Andrew E. Turner'
     date: '2016'
-    publisher:
-      name: Univelt
-      url: 'http://www.univelt.com/'
     flavor: 'Conference Paper'
     summary: 'Survey findings from all SSL launches since the 1990s.'
     url: 'http://www.univelt.com/book=5817'
@@ -127,9 +118,6 @@ writing:
       - 'Gregory Greer'
       - 'Mafred Bester'
     date: '2010'
-    publisher:
-      name: 'Space Ops Conferences'
-      url: 'https://arc.aiaa.org/series/6.spaceops'
     flavor: 'Conference Paper'
     summary: 'Discussion of the integration of the Deep Space Network software and processes for the ARTEMIS mission extension.'
     url: 'https://arc.aiaa.org/doi/10.2514/6.2010-1934'
@@ -150,18 +138,18 @@ recognition:
     summary: 'Received for contributions to a 2013 NASA Institute for Advanced Concepts (NIAC) proposal for a deep space communications architecture concept.'
   -
     flavor: industry
-    from: NASA
-    title: 'ARTEMIS Extension'
+    from: 'Space Sciences Laboratory'
+    title: 'ARTEMIS Project Recognition'
     event: ""
-    date: '2008'
-    summary: 'For work on lunar ARTEMIS extension.'
+    date: '2010'
+    summary: 'For contributions to the Lissajous and Lunar Orbit Phases.'
 service:
   summary: ""
   history:
     -
       flavor: volunteer
       position: 'Safety Implimentation Team Member'
-      organization: 'Unitarian Universalist Church of Berkeley'
+      organization: UUCB
       url: 'http://uucb.org'
       start: 2017-09
       summary: 'The Safety Implimenation Team is responsible for educating all church groups on the Safety Plan requirements.'
@@ -170,7 +158,7 @@ service:
     -
       flavor: volunteer
       position: 'Social Media Team Member'
-      organization: 'Unitarian Universalist Church of Berkeley'
+      organization: UUCB
       url: 'https://uucb.org'
       start: 2018-07
       summary: 'Administrative member of the church Social Media Team.  Responsible for training, technical support, and analytics reporting to the church Program Council.'
@@ -185,3 +173,28 @@ social:
     network: GitHub
     user: glemieux
     url: 'https://github.com/glemieux'
+skills:
+  sets:
+    -
+      name: 'Scientific Programming'
+      level: ""
+      skills:
+        - Matlab/Simulink
+        - Julia
+        - Python
+        - C
+        - Fortran
+    -
+      name: 'Source Control'
+      level: ""
+      skills:
+        - Git
+        - SVN
+    -
+      name: 'Operating Systems'
+      level: ""
+      skills:
+        - Linux
+        - macOS
+        - Windows
+  list: []

@@ -14,8 +14,22 @@
     "address": "1113 Channing Way",
     "city": "Berkeley",
     "region": "California",
-    "code": "94702",
-    "country": "United States"
+    "postalCode": "94702",
+    "countryCode": "US"
+  },
+  "skills": {
+    "sets": [
+      {
+        "name": "Operating Systems",
+        "level": "",
+        "skills": [
+          "Linux",
+          "macOS",
+          "Windows"
+        ]
+      }
+    ],
+    "list": []
   },
   "employment": {
     "summary": "Optional overall employment summary. Not used in most themes.",
@@ -29,30 +43,26 @@
       {
         "institution": "Purdue University",
         "studyType": "M.Sc.",
-        "area": "[Interdiscplinary Engineering](https://engineering.purdue.edu/ProEd/programs/masters-degrees/interdisciplinary-engineering)",
+        "area": "Interdiscplinary Engineering",
         "url": "https://engineering.purdue.edu/ProEd/programs/masters-degrees/interdisciplinary-engineering",
         "start": "2016-09",
         "grade": "3.2",
         "summary": "Part-time, customized, distance program with focus on Computational Engineering.",
-        "curriculum": [
-          "[CS50100](https://engineering.purdue.edu/ProEd/courses/computing-science-engineering)",
-          "[MA52800](https://engineering.purdue.edu/ProEd/courses/advanced-mathematics-engineers-physicists-ii)",
-          "[AAE50800](https://engineering.purdue.edu/ProEd/courses/optimization-aerospace-engineering)",
-          "[AAE56800](https://engineering.purdue.edu/ProEd/courses/applied-optimal-control-estimation)"]
+        "curriculum": []
       },
       {
         "institution": "Stanford University",
-        "area": "[Center for Professional Development](http://scpd.stanford.edu/home)",
+        "area": "Introduction to Linear Dynamical Systems (EE263)",
         "start": "2015-06",
         "end": "2015-08",
-        "curriculum": ["[EE263](https://see.stanford.edu/Course/EE263)"]
+        "curriculum": []
       },
       {
         "institution": "Santa Clara University",
-        "area": "Open University",
+        "area": "Linear Algebra I (AMTH 245), Linear Algebra II (AMTH 246)",
         "start": "2014-09",
         "end": "2015-05",
-        "curriculum": ["Linear Algebra I","Linear Algebra II"]
+        "curriculum": []
       },
       {
         "institution": "Boston University",
@@ -69,17 +79,21 @@
   },
   "writing": [
     {
-      "title": "[SSL Commercial Geosynchronous Spacecraft Orbit Raising Considerations](http://www.univelt.com/book=5817)",
+      "title": "SSL Commercial Geosynchronous Spacecraft Orbit Raising Considerations",
       "author": [ "Gregory Lemieux", 
               "Andrew E. Turner" 
               ],
       "date": "2016",
+      "publisher": {
+        "name": "Univelt",
+        "url": "http://www.univelt.com/"
+      },
       "flavor": "Conference Paper",
       "summary": "Survey findings from all SSL launches since the 1990s.",
       "url": "http://www.univelt.com/book=5817"
     },
     {
-      "title": "[THEMIS Mission Networks Expansion](https://arc.aiaa.org/doi/10.2514/6.2010-1934)",
+      "title": "THEMIS Mission Networks Expansion – Adding the Deep Space Network for the ARTEMIS Lunar Mission Phase",
       "author": ["Bryce Roberts", 
               "Mark Lewis", 
               "Jeremy Thorsness", 
@@ -91,6 +105,10 @@
               "Mafred Bester"
               ],
       "date": "2010",
+      "publisher": {
+        "name": "Space Ops 2010 Conference",
+        "url": "https://arc.aiaa.org/series/6.spaceops"
+      },
       "flavor": "Conference Paper",
       "summary": "Discussion of the integration of the Deep Space Network software and processes for the ARTEMIS mission extension.",
       "url": "https://arc.aiaa.org/doi/10.2514/6.2010-1934"
@@ -127,18 +145,18 @@
     "history": [
       {
         "flavor": "volunteer",
-        "position": "Safety Implimentation Team",
+        "position": "Safety Implimentation Team Member",
         "organization": "UUCB",
         "url": "http://uucb.org",
         "start": "2017-09",
-        "summary": "Responsible for educating all church program groups on the Safety Plan requirements.",
+        "summary": "The Safety Implimenation Team is responsible for educating all church groups on the Safety Plan requirements.",
         "highlights": [
           "Trained Family Ministry and Religious Education Volunteers on Emergency Evacuation procedures."
         ]
       },
       {
         "flavor": "volunteer",
-        "position": "Social Media Team",
+        "position": "Social Media Team Member",
         "organization": "UUCB",
         "url": "https://uucb.org",
         "start": "2018-07",

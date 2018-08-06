@@ -14,7 +14,7 @@ basics:
       url: 'https://github.com/glemieux'
 work:
   -
-    company: '[SSL](http://sslmda.com)'
+    company: SSL
     website: 'http://sslmda.com'
     position: 'Systems Engineering Specialist'
     startDate: 2012-04
@@ -24,7 +24,7 @@ work:
       - 'Founding member of the Guidance, Navigation and Control Software Development Working Group.'
       - 'Produced mission analysis tools for the NASA [Restore-L](https://sspd.gsfc.nasa.gov/restore-L.html) to help guide hardware subsystems decision-making.'
   -
-    company: '[Space Science Laboratory](http://www.ssl.berkeley.edu/)'
+    company: 'Space Science Laboratory'
     website: 'http://www.ssl.berkeley.edu/'
     position: 'Research and Development Engineer'
     startDate: 2008-06
@@ -35,7 +35,7 @@ work:
       - 'Scheduled [ARTEMIS](http://artemis.ssl.berkeley.edu/) mission supports including critical Lunar Orbit Insertion.'
       - 'Contributed to the Deep Space Network Scheduling Advisory and Mid-range Management Groups.'
   -
-    company: '[Janos Technology](http://www.janostech.com/)'
+    company: 'Janos Technology'
     website: 'http://www.janostech.com/'
     position: 'Opto-mechanical Engineer'
     startDate: 2003-12
@@ -44,7 +44,7 @@ work:
       - 'Designed infrared lens assemblies for commercial, defense, and research applications.'
       - 'Represented the engineering department as a member of the company-wide Quality Control Committee seeking AS9100 compliance.'
   -
-    company: '[Center for Space Physics](https://www.bu.edu/csp/)'
+    company: 'Center for Space Physics'
     website: 'https://www.bu.edu/csp/'
     position: 'Mechanical Engineer'
     startDate: 2001-09
@@ -55,29 +55,22 @@ education:
   -
     institution: 'Purdue University'
     gpa: '3.2'
-    courses:
-      - '[CS50100](https://engineering.purdue.edu/ProEd/courses/computing-science-engineering)'
-      - '[MA52800](https://engineering.purdue.edu/ProEd/courses/advanced-mathematics-engineers-physicists-ii)'
-      - '[AAE50800](https://engineering.purdue.edu/ProEd/courses/optimization-aerospace-engineering)'
-      - '[AAE56800](https://engineering.purdue.edu/ProEd/courses/applied-optimal-control-estimation)'
+    courses: []
     startDate: 2016-09
-    area: '[Interdiscplinary Engineering](https://engineering.purdue.edu/ProEd/programs/masters-degrees/interdisciplinary-engineering)'
+    area: 'Interdiscplinary Engineering'
     studyType: M.Sc.
   -
     institution: 'Stanford University'
-    courses:
-      - '[EE263](https://see.stanford.edu/Course/EE263)'
+    courses: []
     startDate: 2015-06
     endDate: 2015-08
-    area: '[Center for Professional Development](http://scpd.stanford.edu/home)'
+    area: 'Introduction to Linear Dynamical Systems (EE263)'
   -
     institution: 'Santa Clara University'
-    courses:
-      - 'Linear Algebra I'
-      - 'Linear Algebra II'
+    courses: []
     startDate: 2014-09
     endDate: 2015-05
-    area: 'Open University'
+    area: 'Linear Algebra I (AMTH 245), Linear Algebra II (AMTH 246)'
   -
     institution: 'Boston University'
     gpa: '2.98'
@@ -93,27 +86,15 @@ skills:
     keywords:
       - Matlab/Simulink
       - Julia
-      - NumPy
+      - Python
+      - C
+      - Fortran
   -
     name: 'Source Control'
     level: ""
     keywords:
       - Git
-      - Subversion
-  -
-    name: Documentation
-    level: ""
-    keywords:
-      - Markdown
-      - TeX
-      - Pandoc
-      - Documenter.jl
-  -
-    name: Productivity
-    level: ""
-    keywords:
-      - VScode
-      - Vim
+      - SVN
   -
     name: 'Operating Systems'
     level: ""
@@ -160,12 +141,12 @@ awards:
     summary: 'For contributions to the Lissajous and Lunar Orbit Phases.'
 publications:
   -
-    name: '[SSL Commercial Geosynchronous Spacecraft Orbit Raising Considerations](http://www.univelt.com/book=5817)'
+    name: 'SSL Commercial Geosynchronous Spacecraft Orbit Raising Considerations'
     releaseDate: '2016'
     website: 'http://www.univelt.com/book=5817'
     summary: 'Survey findings from all SSL launches since the 1990s.'
   -
-    name: '[THEMIS Mission Networks Expansion](https://arc.aiaa.org/doi/10.2514/6.2010-1934)'
+    name: 'THEMIS Mission Networks Expansion'
     releaseDate: '2010'
     website: 'https://arc.aiaa.org/doi/10.2514/6.2010-1934'
     summary: 'Discussion of the integration of the Deep Space Network software and processes for the ARTEMIS mission extension.'

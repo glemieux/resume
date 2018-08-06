@@ -13,41 +13,42 @@
   },
   "meta": {
     "format": "FRESH@^1.0.0-beta",
-    "modified": "2018-08-06T07:20:00.187Z"
+    "modified": "2018-08-06T05:09:59.903Z"
   },
   "employment": {
     "history": [
       {
         "position": "Systems Engineering Specialist",
-        "employer": "[SSL](http://sslmda.com)",
+        "employer": "SSL",
         "current": true,
         "start": "2012-04",
         "url": "http://sslmda.com",
         "keywords": [],
         "highlights": [
-          "Developing next-generation orbit simulation code for controls design and analysis.",
+          "Developing next-generation orbit simulation code for future SSL mission validation and rehearsals.",
           "Responsible for the next-generation on-board flight software orbit estimation filter.",
           "Founding member of the Guidance, Navigation and Control Software Development Working Group.",
-          "Produced mission analysis tools for the NASA [Restore-L](https://sspd.gsfc.nasa.gov/restore-L.html) to help guide hardware subsystems decision-making."
+          "Built Julia and Jupyter-based mission analysis tools for future SSL missions.",
+          "Mission analysis for the Restore-L program."
         ]
       },
       {
         "position": "Research and Development Engineer",
-        "employer": "[Space Science Laboratory](http://www.ssl.berkeley.edu/)",
+        "employer": "Space Science Laboratory",
         "start": "2008-06",
         "end": "2012-04",
         "url": "http://www.ssl.berkeley.edu/",
         "keywords": [],
         "highlights": [
           "Developed science data accumulation forecasting tool to aid in planning mission critical science collection.",
-          "Integrated [DSN Service Scheduling Software](https://ai.jpl.nasa.gov/public/projects/sss/) into active mission operation scheduling process.",
-          "Scheduled [ARTEMIS](http://artemis.ssl.berkeley.edu/) mission supports including critical Lunar Orbit Insertion.",
+          "Integrated DSN Service Scheduling Software into active mission operation scheduling process.",
+          "Scheduled ARTEMIS mission supports including critical Lunar Orbit Insertion.",
           "Contributed to the Deep Space Network Scheduling Advisory and Mid-range Management Groups."
         ]
       },
       {
         "position": "Opto-mechanical Engineer",
-        "employer": "[Janos Technology](http://www.janostech.com/)",
+        "employer": "Janos Technology",
         "start": "2003-12",
         "end": "2006-05",
         "url": "http://www.janostech.com/",
@@ -59,13 +60,13 @@
       },
       {
         "position": "Mechanical Engineer",
-        "employer": "[Center for Space Physics](https://www.bu.edu/csp/)",
+        "employer": "Center for Space Physics",
         "start": "2001-09",
         "end": "2003-06",
         "url": "https://www.bu.edu/csp/",
         "keywords": [],
         "highlights": [
-          "Designed and developed the vacuum-sealed opto-mechanical assembly for the main science payload for the SPIDR NASA mission proposal."
+          "Designed and developed the vacuum-sealed opto-mechanical assembly for the main science payload for the SPIDR NASA SMEX mission proposal."
         ]
       }
     ]
@@ -77,36 +78,26 @@
         "institution": "Purdue University",
         "start": "2016-09",
         "grade": "3.2",
-        "curriculum": [
-          "[CS50100](https://engineering.purdue.edu/ProEd/courses/computing-science-engineering)",
-          "[MA52800](https://engineering.purdue.edu/ProEd/courses/advanced-mathematics-engineers-physicists-ii)",
-          "[AAE50800](https://engineering.purdue.edu/ProEd/courses/optimization-aerospace-engineering)",
-          "[AAE56800](https://engineering.purdue.edu/ProEd/courses/applied-optimal-control-estimation)"
-        ],
+        "curriculum": [],
         "summary": "",
-        "area": "[Interdiscplinary Engineering](https://engineering.purdue.edu/ProEd/programs/masters-degrees/interdisciplinary-engineering)",
+        "area": "Interdiscplinary Engineering",
         "studyType": "M.Sc."
       },
       {
         "institution": "Stanford University",
         "start": "2015-06",
         "end": "2015-08",
-        "curriculum": [
-          "[EE263](https://see.stanford.edu/Course/EE263)"
-        ],
+        "curriculum": [],
         "summary": "",
-        "area": "[Center for Professional Development](http://scpd.stanford.edu/home)"
+        "area": "Introduction to Linear Dynamical Systems (EE263)"
       },
       {
         "institution": "Santa Clara University",
         "start": "2014-09",
         "end": "2015-05",
-        "curriculum": [
-          "Linear Algebra I",
-          "Linear Algebra II"
-        ],
+        "curriculum": [],
         "summary": "",
-        "area": "Open University"
+        "area": "Linear Algebra I (AMTH 245), Linear Algebra II (AMTH 246)"
       },
       {
         "institution": "Boston University",
@@ -124,7 +115,7 @@
     "history": [
       {
         "type": "volunteer",
-        "position": "Social Media Team",
+        "position": "Social Media Team Member",
         "organization": "UUCB",
         "start": "2018-07",
         "url": "https://uucb.org",
@@ -133,11 +124,11 @@
       },
       {
         "type": "volunteer",
-        "position": "Safety Implimentation Team",
+        "position": "Safety Implimentation Team Member",
         "organization": "UUCB",
         "start": "2017-09",
         "url": "http://uucb.org",
-        "summary": "Responsible for educating all church program groups on the Safety Plan requirements.",
+        "summary": "The Safety Implimenation Team is responsible for educating all church groups on the Safety Plan requirements.",
         "highlights": [
           "Trained Family Ministry and Religious Education Volunteers on Emergency Evacuation procedures."
         ]
@@ -152,7 +143,9 @@
         "skills": [
           "Matlab/Simulink",
           "Julia",
-          "NumPy"
+          "Python",
+          "C",
+          "Fortran"
         ]
       },
       {
@@ -160,25 +153,7 @@
         "level": "",
         "skills": [
           "Git",
-          "Subversion"
-        ]
-      },
-      {
-        "name": "Documentation",
-        "level": "",
-        "skills": [
-          "Markdown",
-          "TeX",
-          "Pandoc",
-          "Documenter.jl"
-        ]
-      },
-      {
-        "name": "Productivity",
-        "level": "",
-        "skills": [
-          "VScode",
-          "Vim"
+          "SVN"
         ]
       },
       {
@@ -192,43 +167,6 @@
       }
     ]
   },
-  "writing": [
-    {
-      "title": "[SSL Commercial Geosynchronous Spacecraft Orbit Raising Considerations](http://www.univelt.com/book=5817)",
-      "url": "http://www.univelt.com/book=5817",
-      "date": "2016",
-      "summary": "Survey findings from all SSL launches since the 1990s."
-    },
-    {
-      "title": "[THEMIS Mission Networks Expansion](https://arc.aiaa.org/doi/10.2514/6.2010-1934)",
-      "url": "https://arc.aiaa.org/doi/10.2514/6.2010-1934",
-      "date": "2010",
-      "summary": "Discussion of the integration of the Deep Space Network software and processes for the ARTEMIS mission extension."
-    }
-  ],
-  "recognition": [
-    {
-      "flavor": "award",
-      "title": "Asterism Award",
-      "date": "2015",
-      "from": "SSL",
-      "summary": "Peer-to-peer recognition for developing and delivering introductory training material for new orbit dynamics group employees."
-    },
-    {
-      "flavor": "award",
-      "title": "Apogee Award",
-      "date": "2013",
-      "from": "SSL",
-      "summary": "Received for contributions to a 2013 NASA Institute for Advanced Concepts (NIAC) proposal for a deep space communications architecture concept."
-    },
-    {
-      "flavor": "industry",
-      "title": "ARTEMIS Project Recognition",
-      "date": "2010",
-      "from": "Space Sciences Laboratory",
-      "summary": "For contributions to the Lissajous and Lunar Orbit Phases."
-    }
-  ],
   "social": [
     {
       "label": "GitHub",
