@@ -2,9 +2,9 @@ Gregory Lemieux
 ============
 Email: gregory.lemieux@gmail.com
 Tel: 1-510-847-6519
-Web: glemieux.github.io
+Web: http://glemieux.github.io
 
-Astronautics professional with a broad backround working towards computational mathematics degree. Excellent communicator within commercial, manufacturing and research environments; Proven ability to adapt to changing responsibilities based on evolving project requirements with a diverse skill set developed through participation in multiple stages of spacecraft design, development, and operations.
+Astronautics professional with a broad technical backround working towards Computational Engineering degree. Excellent communicator within commercial, manufacturing and research environments; Proven ability to adapt to changing responsibilities based on evolving project requirements with a diverse skill set developed through participation in multiple stages of spacecraft design, development, and operations.
 
 ## SKILLS
 
@@ -80,8 +80,11 @@ Administrative member of the church Social Media Team.  Responsible for training
 
 ## RECOGNITION
 
-### Apogee Award, SSL (Jan 2016)
-Look this up!
+### Asterism Award, SSL (Jan 2015)
+Peer-to-peer recognition for developing and delivering introductory training material for new orbit dynamics group employees.
+
+### Apogee Award, SSL (Jan 2013)
+Received for contributions to a 2013 NASA Institute for Advanced Concepts (NIAC) proposal for a deep space communications architecture concept.
 
 ### ARTEMIS Extension, NASA (Jan 2008)
 For work on lunar ARTEMIS extension.

@@ -1,1 +1,1 @@
-/home/gregorylemieux/Documents/Career/Resume/fresh/out/awesome/latex/awesome-cv.cls
+/home/gregorylemieux/Documents/Career/Resume/hackmyresume/resume-source/out/awesome/latex/awesome-cv.cls

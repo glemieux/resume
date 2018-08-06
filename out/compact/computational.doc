@@ -496,7 +496,7 @@
           </w:rPr>
           <w:t> - </w:t>
         </w:r>
-        <w:hlink w:dest="glemieux.github.io">
+        <w:hlink w:dest="http://glemieux.github.io">
           <w:r wsp:rsidRPr="003876BF">
             <w:rPr>
               <w:rStyle w:val="Hyperlink"/>
@@ -506,7 +506,7 @@
           </w:r>
         </w:hlink>
       </w:p>
-      <w:r><w:rPr></w:rPr><w:t>Astronautics professional with a broad backround working towards computational mathematics degree. Excellent communicator within commercial, manufacturing and research environments; Proven ability to adapt to changing responsibilities based on evolving project requirements with a diverse skill set developed through participation in multiple stages of spacecraft design, development, and operations.</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Astronautics professional with a broad technical backround working towards Computational Engineering degree. Excellent communicator within commercial, manufacturing and research environments; Proven ability to adapt to changing responsibilities based on evolving project requirements with a diverse skill set developed through participation in multiple stages of spacecraft design, development, and operations.</w:t></w:r>
       <wx:sub-section>
   <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
     <w:pPr>
@@ -1221,6 +1221,42 @@
       </w:pPr>
       
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:t>Asterism Award</w:t>
+        </w:r>
+      
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>2015-01</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Peer-to-peer recognition for developing and delivering introductory training material for new orbit dynamics group employees.</w:t></w:r>
+    </w:p>
+
+
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
           <w:t>Apogee Award</w:t>
         </w:r>
       
@@ -1231,7 +1267,7 @@
         <w:rPr>
           <w:rStyle w:val="FromTo"/>
         </w:rPr>
-        <w:t>2016-01</w:t>
+        <w:t>2013-01</w:t>
       </w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
@@ -1240,7 +1276,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Look this up!</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Received for contributions to a 2013 NASA Institute for Advanced Concepts (NIAC) proposal for a deep space communications architecture concept.</w:t></w:r>
     </w:p>
 
 

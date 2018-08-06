@@ -2,9 +2,9 @@ Gregory Lemieux
 ============
 Email: gregory.lemieux@gmail.com
 Tel: 1-510-847-6519
-Web: glemieux.github.io
+Web: http://glemieux.github.io
 
-Astronautics professional with a broad backround working towards computational mathematics degree. Excellent communicator within commercial, manufacturing and research environments; Proven ability to adapt to changing responsibilities based on evolving project requirements with a diverse skill set developed through participation in multiple stages of spacecraft design, development, and operations..
+Astronautics professional with a broad technical backround working towards Computational Engineering degree. Excellent communicator within commercial, manufacturing and research environments; Proven ability to adapt to changing responsibilities based on evolving project requirements with a diverse skill set developed through participation in multiple stages of spacecraft design, development, and operations.
 
 ## SKILLS
 
@@ -26,8 +26,8 @@ Dynamics and Controls Engineering, Mission Analysis and Design
 
 Flight Engineer and Mission Scheduler for the THEMIS mission and ARTEMIS extension.
   - Developed science data accumulation forecasting tool to aid in planning mission critical science collection.
-  - Scheduled ARTEMIS mission supports including critical Lunar Lissajous station-keeping maneuvers and Lunar Orbit Insertion.
   - Integrated DSN Service Scheduling Software into active mission operation scheduling process.
+  - Scheduled ARTEMIS mission supports including critical Lunar Orbit Insertion.
   - Contributed to the Deep Space Network Scheduling Advisory and Mid-range Management Groups.
 
 ### *Opto-mechanical Engineer*, [Janos Technology](http://www.janostech.com/) (2003-12 — 2006-05)
@@ -44,7 +44,7 @@ Designed and developed the vacuum-sealed opto-mechanical assembly for the main s
 
 ## EDUCATION
 
-### [Purdue University](https://engineering.purdue.edu/ProEd/programs/masters-degrees/interdisciplinary-engineering) (2017-01 — 2021-05)
+### [Purdue University](https://engineering.purdue.edu/ProEd/programs/masters-degrees/interdisciplinary-engineering) (2017-01 — Present)
 
 Part-time, customized, distance program with focus on Computational Engineering.
 
@@ -68,30 +68,28 @@ Discussion of the integration of the Deep Space Network software and processes f
 
 ## SERVICE
 
-### *Safety Implimentation Team Member*, [UUCB](http://uucb.org) (2017-09 — Present)
+### *Safety Implimentation Team Member*, [Unitarian Universalist Church of Berkeley](http://uucb.org) (2017-09 — Present)
 
-The Safety Implimenation Team is liason between all church groups and the Coordinating Team.  It is responsible for educating groups on the Safety Plan requirements and relaying questions and suggestions back to the Coordinating Team.
+The Safety Implimenation Team is responsible for educating all church groups on the Safety Plan requirements.
   - Trained Family Ministry and Religious Education Volunteers on Emergency Evacuation procedures.
 
-### *Social Media Team Member*, [UUCB](https://uucb.org) (2018-08 — Present)
+### *Social Media Team Member*, [Unitarian Universalist Church of Berkeley](https://uucb.org) (2018-07 — Present)
 
 Administrative member of the church Social Media Team.  Responsible for training, technical support, and analytics reporting to the church Program Council.
 
 
 ## RECOGNITION
 
-### Apogee Award, SSL (Jan 2016)
-Look this up!
+### Asterism Award, SSL (Jan 2015)
+Peer-to-peer recognition for developing and delivering introductory training material for new orbit dynamics group employees.
+
+### Apogee Award, SSL (Jan 2013)
+Received for contributions to a 2013 NASA Institute for Advanced Concepts (NIAC) proposal for a deep space communications architecture concept.
 
 ### ARTEMIS Extension, NASA (Jan 2008)
 For work on lunar ARTEMIS extension.
 
 
 
-
-
-## INTERESTS
-
-- 
 
 

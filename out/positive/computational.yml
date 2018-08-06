@@ -3,7 +3,7 @@ meta:
   format: FRESH@0.6.0
   version: 0.1.0
 contact:
-  website: glemieux.github.io
+  website: 'http://glemieux.github.io'
   phone: 1-510-847-6519
   email: gregory.lemieux@gmail.com
   other: []
@@ -57,8 +57,8 @@ employment:
       keywords: []
       highlights:
         - 'Developed science data accumulation forecasting tool to aid in planning mission critical science collection.'
-        - 'Scheduled ARTEMIS mission supports including critical Lunar Lissajous station-keeping maneuvers and Lunar Orbit Insertion.'
         - 'Integrated DSN Service Scheduling Software into active mission operation scheduling process.'
+        - 'Scheduled ARTEMIS mission supports including critical Lunar Orbit Insertion.'
         - 'Contributed to the Deep Space Network Scheduling Advisory and Mid-range Management Groups.'
     -
       employer: 'Janos Technology'
@@ -89,7 +89,6 @@ education:
       title: 'M.S. Interdiscplinary Engineering'
       url: 'https://engineering.purdue.edu/ProEd/programs/masters-degrees/interdisciplinary-engineering'
       start: 2017-01
-      end: 2021-05
       grade: '3.2'
       summary: 'Part-time, customized, distance program with focus on Computational Engineering.'
       curriculum: []
@@ -138,11 +137,17 @@ recognition:
   -
     flavor: award
     from: SSL
+    title: 'Asterism Award'
+    event: ""
+    date: '2015'
+    summary: 'Peer-to-peer recognition for developing and delivering introductory training material for new orbit dynamics group employees.'
+  -
+    flavor: award
+    from: SSL
     title: 'Apogee Award'
     event: ""
-    url: ""
-    date: '2016'
-    summary: 'Look this up!'
+    date: '2013'
+    summary: 'Received for contributions to a 2013 NASA Institute for Advanced Concepts (NIAC) proposal for a deep space communications architecture concept.'
   -
     flavor: industry
     from: NASA
@@ -156,32 +161,23 @@ service:
     -
       flavor: volunteer
       position: 'Safety Implimentation Team Member'
-      organization: UUCB
+      organization: 'Unitarian Universalist Church of Berkeley'
       url: 'http://uucb.org'
-      start: '2017 September'
-      summary: 'The Safety Implimenation Team is liason between all church groups and the Coordinating Team.  It is responsible for educating groups on the Safety Plan requirements and relaying questions and suggestions back to the Coordinating Team.'
+      start: 2017-09
+      summary: 'The Safety Implimenation Team is responsible for educating all church groups on the Safety Plan requirements.'
       highlights:
         - 'Trained Family Ministry and Religious Education Volunteers on Emergency Evacuation procedures.'
     -
       flavor: volunteer
       position: 'Social Media Team Member'
-      organization: UUCB
+      organization: 'Unitarian Universalist Church of Berkeley'
       url: 'https://uucb.org'
-      start: 2018-08
+      start: 2018-07
       summary: 'Administrative member of the church Social Media Team.  Responsible for training, technical support, and analytics reporting to the church Program Council.'
       highlights: []
-languages:
-  -
-    language: C++
-    level: intermediate
-interests:
-  -
-    name: ""
-    summary: ""
-    keywords: []
 info:
   label: 'Computational Engineer'
-  brief: 'Astronautics professional with a broad backround working towards computational mathematics degree. Excellent communicator within commercial, manufacturing and research environments; Proven ability to adapt to changing responsibilities based on evolving project requirements with a diverse skill set developed through participation in multiple stages of spacecraft design, development, and operations..'
+  brief: 'Astronautics professional with a broad technical backround working towards Computational Engineering degree. Excellent communicator within commercial, manufacturing and research environments; Proven ability to adapt to changing responsibilities based on evolving project requirements with a diverse skill set developed through participation in multiple stages of spacecraft design, development, and operations.'
   image: ""
 social:
   -

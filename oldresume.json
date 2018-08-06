@@ -5,7 +5,7 @@
     "version": "0.1.0"
   },
   "contact": {
-    "website": "http://glemieux.github.io",
+    "website": "glemieux.github.io",
     "phone": "1-510-847-6519",
     "email": "gregory.lemieux@gmail.com",
     "other": []
@@ -89,18 +89,10 @@
     {
       "flavor": "award",
       "from": "SSL",
-      "title": "Asterism Award",
-      "event": "",
-      "date": "2015",
-      "summary": "Peer-to-peer recognition for developing and delivering introductory training material for new orbit dynamics group employees."
-    },
-    {
-      "flavor": "award",
-      "from": "SSL",
       "title": "Apogee Award",
       "event": "",
-      "date": "2013",
-      "summary": "Received for contributions to a 2013 NASA Institute for Advanced Concepts (NIAC) proposal for a deep space communications architecture concept."
+      "date": "2016",
+      "summary": "Look this up!"
     },
     {
       "flavor": "industry",
@@ -124,15 +116,6 @@
         "highlights": [
           "Trained Family Ministry and Religious Education Volunteers on Emergency Evacuation procedures."
         ]
-      },
-      {
-        "flavor": "volunteer",
-        "position": "Social Media Team Member",
-        "organization": "Unitarian Universalist Church of Berkeley",
-        "url": "https://uucb.org",
-        "start": "2018-07",
-        "summary": "Administrative member of the church Social Media Team.  Responsible for training, technical support, and analytics reporting to the church Program Council.",
-        "highlights": []
       }
     ]
   }
