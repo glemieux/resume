@@ -1,0 +1,36 @@
+{
+  "name": "Gregory Lemieux",
+  "meta": {
+    "format": "FRESH@0.6.0",
+    "version": "0.1.0"
+  },
+  "writing": [
+    {
+      "title": "[SSL Commercial Geosynchronous Spacecraft Orbit Raising Considerations](http://www.univelt.com/book=5817)",
+      "author": [ "Gregory Lemieux", 
+              "Andrew E. Turner" 
+              ],
+      "date": "2016",
+      "flavor": "Conference Paper",
+      "summary": "Survey findings from all SSL launches since the 1990s.",
+      "url": "http://www.univelt.com/book=5817"
+    },
+    {
+      "title": "[THEMIS Mission Networks Expansion](https://arc.aiaa.org/doi/10.2514/6.2010-1934)",
+      "author": ["Bryce Roberts", 
+              "Mark Lewis", 
+              "Jeremy Thorsness", 
+              "Gregory Picard", 
+              "Gregory Lemieux", 
+              "Jeffrey Marchese", 
+              "Daniel Cosgrove", 
+              "Gregory Greer",
+              "Mafred Bester"
+              ],
+      "date": "2010",
+      "flavor": "Conference Paper",
+      "summary": "Discussion of the integration of the Deep Space Network software and processes for the ARTEMIS mission extension.",
+      "url": "https://arc.aiaa.org/doi/10.2514/6.2010-1934"
+    }
+  ]
+}

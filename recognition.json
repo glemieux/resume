@@ -1,0 +1,33 @@
+{
+  "name": "Gregory Lemieux",
+  "meta": {
+    "format": "FRESH@0.6.0",
+    "version": "0.1.0"
+  },
+  "recognition": [
+    {
+      "flavor": "award",
+      "from": "SSL",
+      "title": "Asterism Award",
+      "event": "",
+      "date": "2015",
+      "summary": "Peer-to-peer recognition for developing and delivering introductory training material for new orbit dynamics group employees."
+    },
+    {
+      "flavor": "award",
+      "from": "SSL",
+      "title": "Apogee Award",
+      "event": "",
+      "date": "2013",
+      "summary": "Received for contributions to a 2013 NASA Institute for Advanced Concepts (NIAC) proposal for a deep space communications architecture concept."
+    },
+    {
+      "flavor": "industry",
+      "from": "Space Sciences Laboratory",
+      "title": "ARTEMIS Project Recognition",
+      "event": "",
+      "date": "2010",
+      "summary": "For contributions to the Lissajous and Lunar Orbit Phases."
+    }
+  ]
+}

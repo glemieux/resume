@@ -1,0 +1,53 @@
+{
+  "name": "Gregory Lemieux",
+  "meta": {
+    "format": "FRESH@0.6.0",
+    "version": "0.1.0"
+  },
+  "education": {
+    "summary": "Optional overall education summary. Not used in most themes.",
+    "level": "degree",
+    "degree": "Candidate for M.S. Interdisciplinary Engineering, 2021",
+    "history": [
+      {
+        "institution": "Purdue University",
+        "studyType": "M.Sc.",
+        "area": "[Interdiscplinary Engineering](https://engineering.purdue.edu/ProEd/programs/masters-degrees/interdisciplinary-engineering)",
+        "url": "https://engineering.purdue.edu/ProEd/programs/masters-degrees/interdisciplinary-engineering",
+        "start": "2016-09",
+        "grade": "3.2",
+        "summary": "Part-time, customized, distance program with focus on Computational Engineering.",
+        "curriculum": [
+          "[CS50100](https://engineering.purdue.edu/ProEd/courses/computing-science-engineering)",
+          "[MA52800](https://engineering.purdue.edu/ProEd/courses/advanced-mathematics-engineers-physicists-ii)",
+          "[AAE50800](https://engineering.purdue.edu/ProEd/courses/optimization-aerospace-engineering)",
+          "[AAE56800](https://engineering.purdue.edu/ProEd/courses/applied-optimal-control-estimation)"]
+      },
+      {
+        "institution": "Stanford University",
+        "area": "[Center for Professional Development](http://scpd.stanford.edu/home)",
+        "start": "2015-06",
+        "end": "2015-08",
+        "curriculum": ["[EE263](https://see.stanford.edu/Course/EE263)"]
+      },
+      {
+        "institution": "Santa Clara University",
+        "area": "Open University",
+        "start": "2014-09",
+        "end": "2015-05",
+        "curriculum": ["Linear Algebra I","Linear Algebra II"]
+      },
+      {
+        "institution": "Boston University",
+        "studyType": "B.Sc.",
+        "area": "Aerospace Engineering",
+        "title": "B.S. Aerospace Engineering",
+        "url": "https://www.bu.edu/eng/academics/areas-of-study/area-of-study-aerospace/",
+        "start": "1997-09",
+        "end": "2002-05",
+        "grade": "2.98",
+        "curriculum": []
+      }
+    ]
+  }
+}

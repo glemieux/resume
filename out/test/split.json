@@ -13,7 +13,7 @@
   },
   "meta": {
     "format": "FRESH@^1.0.0-beta",
-    "modified": "2018-08-06T14:52:01.654Z"
+    "modified": "2018-08-07T16:16:46.755Z"
   },
   "employment": {
     "history": [
@@ -26,9 +26,13 @@
         "keywords": [],
         "highlights": [
           "Developing next-generation orbit simulation code for controls design and analysis.",
-          "Responsible for the next-generation on-board flight software orbit estimation filter.",
+          "Responsible for the next-generation on-board flight software orbit estimation Kalman filter.",
+          "Add the work for TEA and also discuss the deployment into GSFC system",
           "Founding member of the Guidance, Navigation and Control Software Development Working Group.",
-          "Produced mission analysis tools for the NASA [Restore-L](https://sspd.gsfc.nasa.gov/restore-L.html) to help guide hardware subsystems decision-making."
+          "Provide more details about the above.  Talk about standard recommendation.",
+          "Produced mission analysis tools for the NASA [Restore-L](https://sspd.gsfc.nasa.gov/restore-L.html) to help guide hardware subsystems decision-making.",
+          "Detail this a bit more to focus on how this compares to old tools",
+          "Figure out what to talk about with regard to Mission Planner and OD role"
         ]
       },
       {
@@ -39,10 +43,10 @@
         "url": "http://www.ssl.berkeley.edu/",
         "keywords": [],
         "highlights": [
-          "Developed science data accumulation forecasting tool to aid in planning mission critical science collection.",
+          "Developed science data accumulation forecasting tool to aid in real-time planning for mission critical science collection.",
           "Integrated [DSN Service Scheduling Software](https://ai.jpl.nasa.gov/public/projects/sss/) into active mission operation scheduling process.",
           "Scheduled [ARTEMIS](http://artemis.ssl.berkeley.edu/) mission supports including critical Lunar Orbit Insertion.",
-          "Contributed to the Deep Space Network Scheduling Advisory and Mid-range Management Groups."
+          "Contributed to the Deep Space Network Scheduling Advisory and Mid-range Management Groups to prepare for deployment of next-generation scheduling process."
         ]
       },
       {
@@ -169,8 +173,7 @@
         "skills": [
           "Markdown",
           "TeX",
-          "Pandoc",
-          "Documenter.jl"
+          "Pandoc"
         ]
       },
       {
@@ -178,6 +181,7 @@
         "level": "",
         "skills": [
           "VScode",
+          "Jupyter",
           "Vim"
         ]
       },
