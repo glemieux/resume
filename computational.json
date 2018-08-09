@@ -5,7 +5,7 @@
     "version": "0.1.0"
   },
   "info": {
-    "label": "Computational Engineer",
+    "label": "Scientific Programmer",
     "brief": "Astronautics professional with a broad technical backround working towards Computational Engineering degree. Excellent communicator within commercial, manufacturing and research environments; Proven ability to adapt to changing responsibilities based on evolving project requirements with a diverse skill set developed through participation in multiple stages of spacecraft design, development, and operations.",
     "image": ""
   },
@@ -27,13 +27,16 @@
         "start": "2012-04",
         "keywords": [],
         "highlights": [
-          "Developing next-generation orbit simulation code for controls design and analysis.",
+          "Developing next-generation orbit simulation code for controls design and Vehicle Hardware Lab usage.",
           "Responsible for the next-generation on-board flight software orbit estimation Kalman filter.",
-          "Add the work for TEA and also discuss the deployment into GSFC system",
+          "Implementing Matlab/Simulink autocode generation to help streamline flight software build efforts",
+          "TEA code discussion",
+          "Package management code build discussion",
           "Founding member of the Guidance, Navigation and Control Software Development Working Group.",
           "Provide more details about the above.  Talk about standard recommendation.",
           "Produced mission analysis tools for the NASA [Restore-L](https://sspd.gsfc.nasa.gov/restore-L.html) to help guide hardware subsystems decision-making.",
           "Detail this a bit more to focus on how this compares to old tools",
+          "Also flesh out star tracker location/orientation optimization against mission requirements",
           "Figure out what to talk about with regard to Mission Planner and OD role"
         ]
       },
