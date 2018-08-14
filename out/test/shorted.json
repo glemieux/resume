@@ -1,0 +1,217 @@
+{
+  "name": "Gregory Lemieux",
+  "info": {
+    "label": "Computational Engineer",
+    "image": "",
+    "brief": "I'm an engineer with a passion for developing scientfic software applications to help solve some of the most pressing problems our world faces.  My particular interest lies in applied optimization problems and towards this end I am pursuing a graduate degree, part-time, with a focus on Computational Engineering.  I have a broad technical background developed through work in both academic and industrial organizations, providing both research-oriented and commericially-focused products and services.  As such, I am extremely comfortable communicating within a variety of environments and have a proven ability to adapt to changing responsibilities based on evolving project requirements."
+  },
+  "contact": {
+    "email": "gregory.lemieux@gmail.com",
+    "phone": "1.510.847.6519",
+    "website": "http://glemieux.github.io",
+    "other": []
+  },
+  "meta": {
+    "format": "FRESH@^1.0.0-beta",
+    "modified": "2018-08-14T18:26:25.712Z"
+  },
+  "employment": {
+    "history": [
+      {
+        "position": "Systems Engineering Specialist",
+        "employer": "[SSL](http://sslmda.com)",
+        "current": true,
+        "start": "2012-04",
+        "url": "http://sslmda.com",
+        "keywords": [],
+        "highlights": [
+          "Developing next-generation orbit simulation code for controls design and Vehicle Hardware Lab usage.",
+          "Responsible for the next-generation on-board flight software orbit estimation Kalman filter.",
+          "Implementing Matlab/Simulink autocode generation to help streamline flight software build efforts",
+          "TEA code discussion",
+          "Package management code build discussion",
+          "Founding member of the Guidance, Navigation and Control Software Development Working Group.",
+          "Provide more details about the above.  Talk about standard recommendation.",
+          "Produced mission analysis tools for the NASA [Restore-L](https://sspd.gsfc.nasa.gov/restore-L.html) to help guide hardware subsystems decision-making.",
+          "Detail this a bit more to focus on how this compares to old tools",
+          "Also flesh out star tracker location/orientation optimization against mission requirements",
+          "Figure out what to talk about with regard to Mission Planner and OD role"
+        ]
+      },
+      {
+        "position": "Research and Development Engineer",
+        "employer": "[Space Science Laboratory](http://www.ssl.berkeley.edu/)",
+        "start": "2008-06",
+        "end": "2012-04",
+        "url": "http://www.ssl.berkeley.edu/",
+        "keywords": [],
+        "highlights": [
+          "Developed science data accumulation forecasting tool to aid in real-time planning for mission critical science collection.",
+          "Integrated [DSN Service Scheduling Software](https://ai.jpl.nasa.gov/public/projects/sss/) into active mission operation scheduling process.",
+          "Scheduled [ARTEMIS](http://artemis.ssl.berkeley.edu/) mission supports including critical Lunar Orbit Insertion.",
+          "Contributed to the Deep Space Network Scheduling Advisory and Mid-range Management Groups to prepare for deployment of next-generation scheduling process."
+        ]
+      },
+      {
+        "position": "Opto-mechanical Engineer",
+        "employer": "[Janos Technology](http://www.janostech.com/)",
+        "start": "2003-12",
+        "end": "2006-05",
+        "url": "http://www.janostech.com/",
+        "keywords": [],
+        "highlights": [
+          "Designed infrared lens assemblies for commercial, defense, and research applications.",
+          "Represented the engineering department as a member of the company-wide Quality Control Committee seeking AS9100 compliance."
+        ]
+      },
+      {
+        "position": "Mechanical Engineer",
+        "employer": "[Center for Space Physics](https://www.bu.edu/csp/)",
+        "start": "2001-09",
+        "end": "2003-06",
+        "url": "https://www.bu.edu/csp/",
+        "keywords": [],
+        "highlights": [
+          "Designed and developed the vacuum-sealed opto-mechanical assembly for the main science payload for the SPIDR NASA mission proposal."
+        ]
+      }
+    ]
+  },
+  "education": {
+    "level": "",
+    "history": [
+      {
+        "institution": "Purdue University",
+        "start": "2016-09",
+        "summary": "",
+        "area": "[Interdiscplinary Engineering](https://engineering.purdue.edu/ProEd/programs/masters-degrees/interdisciplinary-engineering)",
+        "studyType": "M.S."
+      },
+      {
+        "institution": "Boston University",
+        "start": "1997-09",
+        "end": "2002-05",
+        "summary": "",
+        "area": "Aerospace Engineering",
+        "studyType": "B.S."
+      }
+    ]
+  },
+  "service": {
+    "history": [
+      {
+        "type": "volunteer",
+        "position": "Social Media Team",
+        "organization": "[UUCB](https://uucb.org)",
+        "start": "2018-07",
+        "url": "https://uucb.org",
+        "summary": "Administrative member of the church Social Media Team responsible for training and technical support to the church program groups.",
+        "highlights": []
+      },
+      {
+        "type": "volunteer",
+        "position": "Safety Implimentation Team",
+        "organization": "[UUCB](http://uucb.org)",
+        "start": "2017-09",
+        "url": "http://uucb.org",
+        "summary": "Responsible for educating all church program groups on the Safety Plan requirements.",
+        "highlights": [
+          "Trained Family Ministry and Religious Education volunteers on emergency evacuation procedures."
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "sets": [
+      {
+        "name": "Scientific Programming",
+        "level": "",
+        "skills": [
+          "Matlab/Simulink",
+          "Julia",
+          "NumPy"
+        ]
+      },
+      {
+        "name": "Source Control",
+        "level": "",
+        "skills": [
+          "Git",
+          "Subversion"
+        ]
+      },
+      {
+        "name": "Documentation",
+        "level": "",
+        "skills": [
+          "Markdown",
+          "TeX",
+          "Pandoc"
+        ]
+      },
+      {
+        "name": "Productivity",
+        "level": "",
+        "skills": [
+          "VScode",
+          "Jupyter",
+          "Vim"
+        ]
+      },
+      {
+        "name": "Operating Systems",
+        "level": "",
+        "skills": [
+          "Linux",
+          "macOS",
+          "Windows"
+        ]
+      }
+    ]
+  },
+  "writing": [
+    {
+      "title": "[SSL Commercial Geosynchronous Spacecraft Orbit Raising Considerations](http://www.univelt.com/book=5817)",
+      "url": "http://www.univelt.com/book=5817",
+      "date": "2016",
+      "summary": "Presents analysis results for a survey of all [SSL](http://sslmda.com/) launches since the 1990s."
+    },
+    {
+      "title": "[THEMIS Mission Networks Expansion](https://arc.aiaa.org/doi/10.2514/6.2010-1934)",
+      "url": "https://arc.aiaa.org/doi/10.2514/6.2010-1934",
+      "date": "2010",
+      "summary": "Discusses the results and experiences integrating the Deep Space Network software and processes for the [ARTEMIS](http://artemis.ssl.berkeley.edu/) mission extension."
+    }
+  ],
+  "recognition": [
+    {
+      "flavor": "award",
+      "title": "Asterism Award",
+      "date": "2015",
+      "from": "SSL",
+      "summary": "Peer-to-peer recognition for developing and delivering introductory training material for new orbit dynamics group employees."
+    },
+    {
+      "flavor": "award",
+      "title": "Apogee Award",
+      "date": "2013",
+      "from": "SSL",
+      "summary": "Received for contributions to a 2013 NASA Institute for Advanced Concepts (NIAC) proposal for a deep space communications architecture concept."
+    },
+    {
+      "flavor": "industry",
+      "title": "ARTEMIS Project Recognition",
+      "date": "2010",
+      "from": "Space Sciences Laboratory",
+      "summary": "For contributions to the Lissajous and Lunar Orbit Phases."
+    }
+  ],
+  "social": [
+    {
+      "label": "GitHub",
+      "network": "GitHub",
+      "url": "https://github.com/glemieux",
+      "user": "glemieux"
+    }
+  ]
+}

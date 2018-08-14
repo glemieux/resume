@@ -12,7 +12,7 @@
               ],
       "date": "2016",
       "flavor": "Conference Paper",
-      "summary": "Survey findings from all SSL launches since the 1990s.",
+      "summary": "Presents analysis results for a survey of all [SSL](http://sslmda.com/) launches since the 1990s.",
       "url": "http://www.univelt.com/book=5817"
     },
     {
@@ -29,7 +29,7 @@
               ],
       "date": "2010",
       "flavor": "Conference Paper",
-      "summary": "Discussion of the integration of the Deep Space Network software and processes for the ARTEMIS mission extension.",
+      "summary": "Discusses the results and experiences integrating the Deep Space Network software and processes for the [ARTEMIS](http://artemis.ssl.berkeley.edu/) mission extension.",
       "url": "https://arc.aiaa.org/doi/10.2514/6.2010-1934"
     }
   ]

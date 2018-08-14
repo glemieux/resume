@@ -1,0 +1,31 @@
+{
+  "name": "Gregory Lemieux",
+  "meta": {
+    "format": "FRESH@0.6.0",
+    "version": "0.1.0"
+  },
+  "education": {
+    "summary": "Optional overall education summary. Not used in most themes.",
+    "level": "degree",
+    "degree": "Candidate for M.S. Interdisciplinary Engineering, 2021",
+    "history": [
+      {
+        "institution": "Purdue University",
+        "studyType": "M.S.",
+        "area": "[Interdiscplinary Engineering](https://engineering.purdue.edu/ProEd/programs/masters-degrees/interdisciplinary-engineering)",
+        "url": "https://engineering.purdue.edu/ProEd/programs/masters-degrees/interdisciplinary-engineering",
+        "start": "2016-09",
+        "summary": "Part-time, customized, distance program with focus on Computational Engineering."
+      },
+      {
+        "institution": "Boston University",
+        "studyType": "B.S.",
+        "area": "Aerospace Engineering",
+        "title": "B.S. Aerospace Engineering",
+        "url": "https://www.bu.edu/eng/academics/areas-of-study/area-of-study-aerospace/",
+        "start": "1997-09",
+        "end": "2002-05"
+      }
+    ]
+  }
+}
