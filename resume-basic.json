@@ -14,8 +14,8 @@
     "address": "1113 Channing Way",
     "city": "Berkeley",
     "region": "California",
-    "code": "94702",
-    "country": "United States"
+    "postalCode": "94702",
+    "countryCode": "United States"
   },
   "employment": {
     "summary": "Optional overall employment summary. Not used in most themes.",
