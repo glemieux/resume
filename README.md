@@ -1,8 +1,9 @@
 Gregory Lemieux
 ============
-Email: gregory.lemieux@gmail.com
-Tel: 1.510.847.6519
-Web: http://glemieux.github.io
+Email: gregory.lemieux@gmail.com  
+Tel: 1.510.847.6519  
+[Webpage](http://glemieux.github.io)  
+[LinkedIn](https://www.linkedin.com/in/gregorylemieux/)
 
 I'm an engineer with a passion for developing scientific software applications to help solve some of the most pressing problems facing our world. My particular interest lies in applied optimization and towards this end I am pursuing a graduate degree, part-time, with a focus on Computational Engineering. I have a broad technical background developed through work in both academic and industrial organizations, providing both research-oriented and commercially-focused products and services. As such, I am extremely comfortable communicating within a variety of environments and have a proven ability to adapt to changing responsibilities based on evolving project requirements.
 
@@ -16,7 +17,7 @@ I'm an engineer with a passion for developing scientific software applications t
 
 ## EMPLOYMENT
 
-### *Systems Engineering Specialist*, [[SSL](http://sslmda.com)](http://sslmda.com) (2012-04 — Present)
+### *Systems Engineering Specialist*, [SSL](http://sslmda.com) (2012-04 — Present)
 
 
   - Developing the next-generation orbit propagator for controls design and Vehicle Hardware Lab simulation as well as the on-board flight software orbit estimation Kalman filter.
@@ -29,7 +30,7 @@ I'm an engineer with a passion for developing scientific software applications t
   - Designed and conducted critical orbit-raising maneuvers as the Mission Planner for more than five geosynchronous communication programs.
   - Developed training for new Orbit Dynamics Group hires in using the heritage mission analysis tool set.
 
-### *Research and Development Engineer*, [[Space Science Laboratory](http://www.ssl.berkeley.edu/)](http://www.ssl.berkeley.edu/) (2008-06 — 2012-04)
+### *Research and Development Engineer*, [Space Science Laboratory](http://www.ssl.berkeley.edu/) (2008-06 — 2012-04)
 
 
   - Developed science data accumulation forecasting tool to aid in real-time planning for mission critical science collection activities.
@@ -39,14 +40,14 @@ I'm an engineer with a passion for developing scientific software applications t
   - Scheduled communication support for [ARTEMIS](http://artemis.ssl.berkeley.edu/) mission including critical maneuvers such as Lunar Orbit Insertion.
   - Participated in the integration and test activities for the [NUSTAR](http://www.nustar.caltech.edu) mission.
 
-### *Opto-mechanical Engineer*, [[Janos Technology](http://www.janostech.com/)](http://www.janostech.com/) (2003-12 — 2006-05)
+### *Opto-mechanical Engineer*, [Janos Technology](http://www.janostech.com/) (2003-12 — 2006-05)
 
 
   - Designed infrared lens assemblies for commercial, defense, and research applications in coordination with staff optical scientist.
   - Represented the Engineering department as a member of the company-wide Quality Control Committee seeking AS9100 compliance.
   - Conducted performance tests for multiple types of lens assemblies using a scanning-slit modular transfer function (MTF) test bench.
 
-### *Mechanical Engineer*, [[Center for Space Physics](https://www.bu.edu/csp/)](https://www.bu.edu/csp/) (2001-09 — 2003-06)
+### *Mechanical Engineer*, [Center for Space Physics](https://www.bu.edu/csp/) (2001-09 — 2003-06)
 
 
   - Designed and developed the vacuum-sealed opto-mechanical assembly for the main science payload for the SPIDR NASA mission proposal.
@@ -58,12 +59,12 @@ I'm an engineer with a passion for developing scientific software applications t
 
 ## EDUCATION
 
-### [Purdue University](https://engineering.purdue.edu/ProEd/programs/masters-degrees/interdisciplinary-engineering) (2016-09 — Present)
+### [Purdue University](https://engineering.purdue.edu/ProEd/programs/masters-degrees/interdisciplinary-engineering), *M.S. Interdisciplinary Engineering* (2016-09 — Present)  
 
 Part-time, customized, distance program with focus on Computational Engineering.
 
 
-### [Boston University](https://www.bu.edu/eng/academics/areas-of-study/area-of-study-aerospace/) (1997-09 — 2002-05)
+### [Boston University](https://www.bu.edu/eng/academics/areas-of-study/area-of-study-aerospace/), *B.S. Aerospace Engineering* (1997-09 — 2002-05)
 
 
 
@@ -72,22 +73,22 @@ Part-time, customized, distance program with focus on Computational Engineering.
 
 ## WRITING
 
-### ***[[SSL Commercial Geosynchronous Spacecraft Orbit Raising Considerations](http://www.univelt.com/book&#x3D;5817)](http://www.univelt.com/book&#x3D;5817)*** (2016-01)
+### ***[SSL Commercial Geosynchronous Spacecraft Orbit Raising Considerations](http://www.univelt.com/book&#x3D;5817)*** (2016-01)
 Presents analysis results for a survey of all [SSL](http://sslmda.com/) launches since the 1990s.
 
-### ***[[THEMIS Mission Networks Expansion](https://arc.aiaa.org/doi/10.2514/6.2010-1934)](https://arc.aiaa.org/doi/10.2514/6.2010-1934)*** (2010-01)
+### ***[THEMIS Mission Networks Expansion](https://arc.aiaa.org/doi/10.2514/6.2010-1934)*** (2010-01)
 Discusses the results and experiences integrating the Deep Space Network software and processes for the [ARTEMIS](http://artemis.ssl.berkeley.edu/) mission extension.
 
 
 
 ## SERVICE
 
-### *Safety Implimentation Team*, [[UUCB](http://uucb.org)](http://uucb.org) (2017-09 — Present)
+### *Safety Implimentation Team*, [UUCB](http://uucb.org) (2017-09 — Present)
 
 Responsible for educating all church program groups on the Safety Plan requirements.
   - Trained Family Ministry and Religious Education volunteers on emergency evacuation procedures.
 
-### *Social Media Team*, [[UUCB](https://uucb.org)](https://uucb.org) (2018-07 — Present)
+### *Social Media Team*, [UUCB](https://uucb.org) (2018-07 — Present)
 
 Administrative member of the church Social Media Team responsible for training and technical support to the church program groups.
 
