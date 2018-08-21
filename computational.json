@@ -6,7 +6,7 @@
   },
   "info": {
     "label": "Computational Engineer",
-    "brief": "I'm an engineer with a passion for developing scientfic software applications to help solve some of the most pressing problems facing our world.  My particular interest lies in applied optimization and towards this end I am pursuing a graduate degree, part-time, with a focus on Computational Engineering.  I have a broad technical background developed through work in both academic and industrial organizations, providing both research-oriented and commericially-focused products and services.  As such, I am extremely comfortable communicating within a variety of environments and have a proven ability to adapt to changing responsibilities based on evolving project requirements.",
+    "brief": "I'm an engineer with a passion for developing scientific software applications to help solve some of the most pressing problems facing our world. My particular interest lies in applied optimization and towards this end I am pursuing a graduate degree, part-time, with a focus on Computational Engineering. I have a broad technical background developed through work in both academic and industrial organizations, providing both research-oriented and commercially-focused products and services. As such, I am extremely comfortable communicating within a variety of environments and have a proven ability to adapt to changing responsibilities based on evolving project requirements.",
     "image": ""
   },
   "social": [
@@ -38,10 +38,10 @@
           "Devised a package management system to automatically check and load necessary library dependencies for simulation submodules.",
           "Implementing Mathworks-based autocode generation toolchain to help streamline flight software build efforts.",
           "Produced new, Jupyter and Julia-based mission analysis tools for the NASA [Restore-L](https://sspd.gsfc.nasa.gov/restore-L.html) mission to help guide hardware subsystems decision-making which included a sensor placement optimization and visualization tool.",
-          "Expanded verification and validation test routines for inherited Chebyshev-based ephemeris approximation code.", 
-          "Founding member of the Guidance, Navigation and Control Software Development Working Group which formed consensus-based guidelines for common code utilized by multiple departments.",
-          "Acted as the Responsible Engineer on and conducted critical orbit-raising maneuvers for more than five geosynchronous communication programs.",
-          "Developed onboading documentation to help train new hires to the heritage mission analysis tool set."
+          "Expanded verification and validation test routines for Chebyshev-based ephemeris approximation code.", 
+          "Founding member of the Guidance, Navigation and Control Software Development Working Group which formed consensus-based guidelines for code commonly utilized by multiple departments.",
+          "Designed and conducted critical orbit-raising maneuvers as the Mission Planner for more than five geosynchronous communication programs.",
+          "Developed training for new Orbit Dynamics Group hires in using the heritage mission analysis tool set."
         ]
       },
       {
@@ -54,9 +54,9 @@
         "highlights": [
           "Developed science data accumulation forecasting tool to aid in real-time planning for mission critical science collection activities.",
           "Integrated [DSN Service Scheduling Software](https://ai.jpl.nasa.gov/public/projects/sss/) into active mission operation scheduling architecture and process.",
-          "Helped Flight Dynamics team replace inhouse developed functions with more capable JPL SPICE toolkit functions.",
-          "Contributed to the Deep Space Network Scheduling Advisory and Mid-range Management Groups to prepare for deployment of next-generation scheduling process.",
-          "Scheduled [ARTEMIS](http://artemis.ssl.berkeley.edu/) mission supports including critical Lunar Orbit Insertion.",
+          "Helped Flight Dynamics team replace functions developed in-house with industry standard [JPL SPICE](https://naif.jpl.nasa.gov/naif/index.html) toolkit functions.",
+          "Contributed to the Deep Space Network Scheduling Advisory Group and Mid-range Management Group to prepare for deployment of next-generation scheduling process to all missions utilitzing the [DSN](https://deepspace.jpl.nasa.gov/).",
+          "Scheduled communication support for [ARTEMIS](http://artemis.ssl.berkeley.edu/) mission including critical maneuvers such as Lunar Orbit Insertion.",
           "Participated in the integration and test activities for the [NUSTAR](http://www.nustar.caltech.edu) mission."
 
         ]
@@ -98,7 +98,8 @@
         "skills": [
           "Matlab/Simulink",
           "Julia",
-          "NumPy"
+          "NumPy",
+          "Fortran"
         ]
       },
       {

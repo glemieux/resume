@@ -1,0 +1,4 @@
+{"wkhtmltopdf": {
+    "margin-top": "20mm",
+    "margin-bottom": "20mm"
+  }}
